@@ -1,0 +1,869 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100142,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "低血圧",
+            "sub_text": "ジアノル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 7,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 11,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 12,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 14,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 15,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 17,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 18,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "ふあ……おはよう……今日は田植えするんだっけ？",
+                    "voice": "108400_adv_003_010_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 21,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 22,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 24,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 26,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 27,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "えっ？　寝ぼけてないよ。普通だよ",
+                    "voice": "108400_adv_003_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 30,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 31,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 33,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 34,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 36,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 37,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "田植えはするの？　しない？\nそう、じゃあジアはこれで失礼するよ……",
+                    "voice": "108400_adv_002_003_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 41,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 43,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100144,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 44,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 45,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 47,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 48,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 49,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command_id": 50,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 51,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 53,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 54,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "今朝、ジアが今日は田植えをするのか聞いてきたって？",
+                    "voice": "108400_adv_002_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 57,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 58,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "……ジア、そんなこと聞いた？",
+                    "voice": "108400_adv_003_006_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 61,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 62,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 64,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 66,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 67,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "それに、寝ぼけてるのかって聞いたら、\n寝ぼけてないって言ってた？",
+                    "voice": "108400_adv_003_009_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 70,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 71,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 73,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 74,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 76,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 77,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "ウーン……",
+                    "voice": "108400_adv_002_003_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 80,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 81,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "ひらめいた。\n寝ぼけている者は、寝ぼけてないと言うんだよ、だいたい",
+                    "voice": "108400_adv_002_002_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 84,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 85,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.23,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 87,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 88,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 90,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.08,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 91,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "ジアは朝が苦手だよ……お昼過ぎぐらいまでは寝ぼけてるよ",
+                    "voice": "108400_adv_000_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 94,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 95,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 97,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 99,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 100,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108400,
+                "text_option": {
+                    "character_name": "ジアノル",
+                    "character_text": "けっこうはっきり喋ってても、だいたい寝ぼけてるよ。\n午前中のジアの言うことは鵜呑みにしないほうがいいよ……",
+                    "voice": "108400_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 103,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 104,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 106,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

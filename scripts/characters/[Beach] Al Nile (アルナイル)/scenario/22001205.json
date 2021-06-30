@@ -1,0 +1,4430 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100148,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "エッチ・その2",
+            "sub_text": "アルナイル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100106
+    },
+    {
+        "command_id": 7,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": 0.75,
+        "resorce_id": 100154,
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 8,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1.25,
+        "resorce_id": null
+    },
+    {
+        "command_id": 9,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 10,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.4,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 15,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 16,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "マスター",
+                    "voice": "200120_scenario_000_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 19,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 20,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 22,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 23,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 25,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 26,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "色々ありましたけど、マスターとこうやってふたりきりで\nゆっくりお話ができて嬉しいです",
+                    "voice": "200120_scenario_000_002_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 29,
+                "command": "Shake",
+                "command_option": 0.12,
+                "command_time": 0.11,
+                "resorce_id": 200120
+            },
+            {
+                "command_id": 30,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 31,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "あっ",
+                    "voice": "200120_scenario_000_002_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 34,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 35,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 37,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 38,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 40,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 41,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "マスター見てください",
+                    "voice": "200120_scenario_000_002_004",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 45,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0.5,
+                "resorce_id": 109701
+            },
+            {
+                "command_id": 46,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 0.5,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 49,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100160,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 50,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 51,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 53,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 54,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 1.5,
+        "resorce_id": 1
+    },
+    {
+        "command_id": 55,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1.2,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 57,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.75,
+                "resorce_id": 109701
+            },
+            {
+                "command_id": 58,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "雪です、マスター！",
+                    "voice": "200120_scenario_000_002_005",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 61,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 62,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.75,
+                "resorce_id": 100154,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 64,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.85,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 66,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 67,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 69,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 70,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 72,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 73,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "ホワイトクリスマスですね。\n明日になったら、きっと雪だるまが作れちゃいますね",
+                    "voice": "200120_scenario_000_002_006",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 76,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 77,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 79,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 12,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 81,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 82,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "寒くないか、ですか？",
+                    "voice": "200120_scenario_000_002_007",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 85,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 86,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 88,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 12,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 89,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 12,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 91,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 92,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "わたしは大丈夫ですけど……",
+                    "voice": "200120_scenario_000_002_008",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 95,
+                "command": "Shake",
+                "command_option": 0.12,
+                "command_time": 0.11,
+                "resorce_id": 200120
+            },
+            {
+                "command_id": 96,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 97,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（はっ……！）",
+                    "voice": "200120_scenario_000_002_009",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 100,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 101,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 103,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 105,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 106,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（これはマスターの、お、お誘いなのかもしれません。\n　フラグをへし折っている場合じゃないですよ、わたし！）",
+                    "voice": "200120_scenario_000_002_010",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 109,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.12,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 110,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.12,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 112,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 113,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 115,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 116,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "あのっ、ちょっと寒いですっ。ですから……",
+                    "voice": "200120_scenario_000_002_011",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 119,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 120,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 122,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.3,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 124,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 125,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "もっと側にいってもいいですか……？",
+                    "voice": "200120_scenario_000_002_012",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 128,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 129,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 131,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 132,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 134,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 135,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "……はいっ♪",
+                    "voice": "200120_scenario_000_002_013",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 139,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 140,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.25,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 141,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.25,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 0.989
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 144,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.35,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 145,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.35,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.058
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 147,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.45,
+        "resorce_id": null
+    },
+    {
+        "command_id": 148,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "（そっ）",
+            "voice": "200120_scenario_000_002_014",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 150,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 151,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 153,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 154,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 156,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 157,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "マスターの肩……あったかいです",
+                    "voice": "200120_scenario_000_002_015",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 160,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 161,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（あ……）",
+                    "voice": "200120_scenario_000_002_016",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 164,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 165,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 167,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 168,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 170,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 171,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（マスターの顔が近づいて……）",
+                    "voice": "200120_scenario_000_002_017",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 174,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 175,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（キスしてくれるんですね……嬉しいです……）",
+                    "voice": "200120_scenario_000_002_018",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 178,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 179,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 180,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.15,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.062
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 183,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.15,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.058
+                }
+            },
+            {
+                "command_id": 184,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 185,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "ん……",
+                    "voice": "200120_scenario_000_002_019",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 188,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 189,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 190,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.062
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 193,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.058
+                }
+            },
+            {
+                "command_id": 194,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 196,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.25,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 198,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.062
+                }
+            },
+            {
+                "command_id": 199,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 202,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.058
+                }
+            },
+            {
+                "command_id": 203,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 204,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "んっふっ……んちゅっ……ちゅるっ……\nちゅっちゅっ……ちゅるるんっ……",
+                    "voice": "200120_scenario_000_002_020",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 207,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 208,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 209,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.062
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 212,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.058
+                }
+            },
+            {
+                "command_id": 213,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 215,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.25,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 217,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.062
+                }
+            },
+            {
+                "command_id": 218,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 221,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.058
+                }
+            },
+            {
+                "command_id": 222,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 223,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "くちゅっちゅっ……ちゅるっちゅるっ……ちゅるんっ……\nくちゅくちゅっ……んっんっ……ちゅっちゅっ……",
+                    "voice": "200120_scenario_000_002_021",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 226,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 227,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 229,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 231,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 232,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "ふあ……",
+                    "voice": "200120_scenario_000_002_022",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 235,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 236,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 238,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 239,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 241,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 242,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（いっぱいキスしちゃいました）",
+                    "voice": "200120_scenario_000_002_023",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 245,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 246,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（マスターとキスすると、すぐに頭がぼうっとしちゃいます……）",
+                    "voice": "200120_scenario_000_002_024",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 249,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 250,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 252,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 253,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 254,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 255,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 256,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -45,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 257,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 258,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 260,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 261,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（体の奥もすぐにとろとろになっちゃって……\n　きゅんってしちゃって……）",
+                    "voice": "200120_scenario_000_002_025",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 264,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 265,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（わたしえっちな天使になっちゃいました……）",
+                    "voice": "200120_scenario_000_002_026",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 268,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.12,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 269,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.12,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 271,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 272,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 274,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 275,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "（あ、でも……マスターのモノもこんなになってます……）",
+                    "voice": "200120_scenario_000_002_027",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 278,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 279,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 281,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 12,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 283,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 284,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "マスター……あの……",
+                    "voice": "200120_scenario_000_002_028",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 287,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 288,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 290,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 291,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 293,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 294,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "わたし、マスターとクリスマスが過ごせるならって、\n色々考えて……",
+                    "voice": "200120_scenario_000_002_029",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 297,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 298,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "また色々な方にお話を聞いたり、調べたりして",
+                    "voice": "200120_scenario_000_002_030",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 301,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 302,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 304,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 305,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 307,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 308,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "それで、月並みかも知れないんですけど……",
+                    "voice": "200120_scenario_000_002_031",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 311,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 312,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 314,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.3,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 316,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 317,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "マスターに受けとってほしくて……",
+                    "voice": "200120_scenario_000_002_032",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 320,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 321,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 323,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 324,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200120,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 326,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200120,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 327,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200120,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "少し、目を閉じていてもらって良いですか？",
+                    "voice": "200120_scenario_000_002_033",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 330,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.25,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 332,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 1,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 333,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 334,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 336,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100865
+    },
+    {
+        "command_id": 337,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1.3,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 344,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.5,
+                "resorce_id": 100861
+            },
+            {
+                "command_id": 345,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 0.5,
+                "resorce_id": null
+            }
+        ]
+    },
+    {
+        "command_id": 347,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command_id": 350,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "……お待たせしました",
+            "voice": "200120_scenario_000_002_034",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 351,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスター……目を開けてください",
+            "voice": "200120_scenario_000_002_035",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 354,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 355,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": 2001200501,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 357,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command_id": 358,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "はい、どうぞ。今夜はわたしがプレゼントです……",
+            "voice": "200120_scenario_000_002_036",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 359,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "こういうのお好きだと聞いたので、\n自分でぐるぐるになってみました",
+            "voice": "200120_scenario_000_002_037",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 360,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスター……わたし、マスターのジブリールになって、\n力をいただけて、ずっと楽しくて、楽しくて、とても幸せでした",
+            "voice": "200120_scenario_000_002_038",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 361,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "だから少しでもご恩に報いられればいいなって、\n嬉しい気持ちをお返しできればいいなって……思ってます",
+            "voice": "200120_scenario_000_002_039",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 362,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "でも、もちろんそれだけじゃなくて……",
+            "voice": "200120_scenario_000_002_040",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 363,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "特別な夜に、特別なマスターと一緒にこうしていられること……\n幸せすぎて夢みたいです",
+            "voice": "200120_scenario_000_002_041",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 364,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスター……",
+            "voice": "200120_scenario_000_002_042",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 365,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "どうぞわたしを、受け取ってくださいね",
+            "voice": "200120_scenario_000_002_043",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 368,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": 2001200502,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 369,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": "0",
+                "resorce_id": 102711
+            }
+        ]
+    },
+    {
+        "command_id": 371,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "んっううっ……んふぅんっ……！",
+            "voice": "200120_scenario_000_002_044",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 372,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ずぶずぶと俺の肉棒がアルの膣に潜り込んでいく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 373,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アルの中は最初からとろとろですごく熱い。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 374,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あの、わたしのオマンコ大丈夫ですか？\nちゃんと、気持ちいいですか？",
+            "voice": "200120_scenario_000_002_045",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 375,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "いっぱいすると……ゆるくなるって聞いてから、\n締める練習とか……してるんですけど……",
+            "voice": "200120_scenario_000_002_046",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 376,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "えっ、あの指とかは入れませんけど……\n本を読んで、きゅっとしめたり……",
+            "voice": "200120_scenario_000_002_047",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 377,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "その締めるのをして欲しい、ですか？　はっはい……",
+            "voice": "200120_scenario_000_002_048",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 378,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "んっ",
+            "voice": "200120_scenario_000_002_049",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 379,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "きゅうっと収縮したアルの膣襞が根本から先端まで\nぴったり密着して蠕動する……めちゃめちゃ気持ちがいい。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 380,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あっマスターすごく気持ちよさそうな顔しています……\nはっんっ……よかったです……",
+            "voice": "200120_scenario_000_002_050",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 381,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "で、でも、締めないと\nガ、ガバガバになっちゃってるんでしょうか……？",
+            "voice": "200120_scenario_000_002_051",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 382,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "えっそんなことはない？\n締めても気持ちがいいし、締めなくても気持ちがいい？",
+            "voice": "200120_scenario_000_002_052",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 383,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "そうですか……よかったです……んっ……ふぅっ",
+            "voice": "200120_scenario_000_002_053",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 384,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あの、マスター……んっ……最初の頃よりも、\nわたし、すごく感じやすくなってて……",
+            "voice": "200120_scenario_000_002_054",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 385,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "簡単に声があがっちゃいそうになるんですけど……\n大丈夫でしょうか……？",
+            "voice": "200120_scenario_000_002_055",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 386,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "そんなえっちなわたしは大歓迎？\nそ、そうですか、良かったです……",
+            "voice": "200120_scenario_000_002_056",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 387,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アルの安堵が膣にも良い影響を及ぼしたのか、さっきよりも\nさらに柔らかくとろとろに蕩けて俺に吸いついてくる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 388,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ふぁっ……あっ……あの……わたしのオマンコ、\nさっきよりも甘えているみたいにオチンチンに吸いついてます……",
+            "voice": "200120_scenario_000_002_057",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 389,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ふああ、恥ずかしいです、もっともっとってオチンチンに\nしゃぶりついちゃうの、恥ずかしいです……ふぁっ……",
+            "voice": "200120_scenario_000_002_058",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 390,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "もっとえっちになって欲しい？\nえっちなわたしを見たい……ですか？",
+            "voice": "200120_scenario_000_002_059",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 391,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "わたし、たぶん……んっふぁっ……マスターが想像しているよりも\nずっと……んんっ……えっちな天使なんです……っ",
+            "voice": "200120_scenario_000_002_060",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 392,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "だって今日も、マスターと特別な夜がすごせるって思うだけで……\n体がすごくきゅんってして……",
+            "voice": "200120_scenario_000_002_061",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 393,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "今も、オマンコの奥からえっちなお汁がいっぱいあふれて、\nぬるぬるして……あっんっ……",
+            "voice": "200120_scenario_000_002_062",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 394,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスターが動くと……ふあっ……じゅぶじゅぶ\nえっちな音がするの、恥ずかしいです……ふあっあっ……",
+            "voice": "200120_scenario_000_002_063",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 395,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "恥ずかしい……恥ずかしいのに、\nでも、それだけじゃなくて……ふあっあっ……んっぁっ……",
+            "voice": "200120_scenario_000_002_064",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 396,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "気持ち良くて、もっとマスターが欲しいって思ってしまって……\nわたしとっても欲張りなんですっ……ふあっあっ",
+            "voice": "200120_scenario_000_002_065",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 397,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "もっと欲張りなわたしを見たい？\nふっああっ……マスター優しいです……んふぁあっ……ああっ",
+            "voice": "200120_scenario_000_002_066",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 398,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あの、じゃあ……わたしのお願い……聞いてくれますか……？",
+            "voice": "200120_scenario_000_002_067",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 399,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アルが恥ずかしそうに俺におねだりする。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 400,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あの、もっと奥まで……欲しいです……",
+            "voice": "200120_scenario_000_002_068",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 401,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マ、マスターのオチンチン、わたしのオマンコの奥の奧まで……\n入れて……ください……っ",
+            "voice": "200120_scenario_000_002_069",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 402,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスターのオチンチン……わたしのオマンコだけじゃなくて、\n子宮でも感じたいんです……っ",
+            "voice": "200120_scenario_000_002_070",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 403,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "そんなこと言われたら、遠慮できなくなる？\nそ、そんな……遠慮なんてしないでください……っ",
+            "voice": "200120_scenario_000_002_071",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 404,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "わたしにマスターの欲望……全部……全部、ぶつけてください……",
+            "voice": "200120_scenario_000_002_072",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 405,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "わたしマスターの全部を受けとめたい……ですっ",
+            "voice": "200120_scenario_000_002_073",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 406,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アルの真剣な目に俺は頷いた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 408,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0.5,
+                "resorce_id": 102764
+            },
+            {
+                "command_id": 409,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": "<off>",
+                    "character_text": "ゆっくりと亀頭が膣口から見えそうなところまで引き抜くと、\nアルへの思いを込めて一気に奥の奥まで肉棒を突き立てた。",
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 413,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.3,
+                "resorce_id": 102764
+            },
+            {
+                "command_id": 414,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": 2001200503,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 415,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": "0",
+                "resorce_id": 102711
+            }
+        ]
+    },
+    {
+        "command_id": 417,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "んふぅうっくふぅんっ！　ひぃぅうんっふぁっ！！",
+            "voice": "200120_scenario_000_002_074",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 418,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスターの大きいのが、私の子宮口にぴったりくっついて……\nふあっああっ……ああんっ！",
+            "voice": "200120_scenario_000_002_075",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 419,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "俺の肉棒が子宮口に深々とめり込んでいく。激しく抜き差しする\nたびに、肉棒がさらに深くまで子宮に潜り込んでいく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 420,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ひっふぁああっぁあっ……しゅごっあっああっしゅごっ……\nこれがましゅたーのっ本気のチンポっぉおっぉおぉ！",
+            "voice": "200120_scenario_000_002_076",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 421,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アルの表情がこれまでとはレベルの違う快楽の衝撃に焦点を失い、\n我を忘れたように快楽を喘ぐ。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 422,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あっううっ……あ、あ、あ……あああっ……チンポがっチンポがっ\n奥まで入ってくるうっんううっふあぁあっぁあ！！",
+            "voice": "200120_scenario_000_002_077",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 423,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "子宮……子宮にっわたしのオマンコの奥にある赤ちゃんの\nお部屋にっマスターのチンポが入ってふああっああっ！",
+            "voice": "200120_scenario_000_002_078",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 424,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あっああっふああっああっ……んんふぁあっぁっ……ああっ\nチンポで子宮ごりごりされてまっすうっふぁあっぁ！",
+            "voice": "200120_scenario_000_002_079",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 425,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ああっああっ感じてますうっわたし、オマンコでっ子宮でっ\nマスターのオチンポ感じてっふああっぁあっああっ！",
+            "voice": "200120_scenario_000_002_080",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 426,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ふあっああんっふぁあっああっぁあああっしゅごっふぁあっぁ\nしゅごおふぁあっぁあっぁあっ！！",
+            "voice": "200120_scenario_000_002_081",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 427,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あっあああんっやっぱり恥ずかしいふぁっぁこんなに感じちゃって\n恥ずかしいぃいぃふぁあぁんっ！！",
+            "voice": "200120_scenario_000_002_082",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 428,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ごめんなさいいっわたし、サンタなのにぃっ、\nマスターを喜ばせるよりもわたしが喜んじゃってごめんなさいいっ",
+            "voice": "200120_scenario_000_002_083",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 429,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "えっちなサンタさんになっちゃってごめんなさいいっああっぁあん\nふぁあっぁあっ……ああっああっぁふぁああんっ！",
+            "voice": "200120_scenario_000_002_084",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 430,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "もっとおねだりして欲しい？　ひぁあっぁああんっそんなっ\nもっとだなんてっ恥ずかしいですぅっぅ！",
+            "voice": "200120_scenario_000_002_085",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 431,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ああっでもっわたしもっ欲しいのっとまらないのっ\n欲しい気持ちがあふれてっとまらないのおっ……！！",
+            "voice": "200120_scenario_000_002_086",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 432,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ますたぁあっますたぁあっあっぁあっ大好きですっ大好きぃいっ\nますたぁあっああぁふぁあっぁああんっ！！",
+            "voice": "200120_scenario_000_002_087",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 433,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスターのぉっオチンポわたしのオマンコにずぶずぶされるのも\n好き好きぃいっふぁあぅああっぁあんっ！！",
+            "voice": "200120_scenario_000_002_088",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 434,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ぬるぬるのオマンコでマスターのチンポもっと欲しいって\n締めつけて、奥に誘うように扱いちゃうのおっふぁあっ！",
+            "voice": "200120_scenario_000_002_089",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 435,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あっあっぁあっ！！\n子宮っ子宮にっずっぷしチンポが潜り込んでっああっあっ！！",
+            "voice": "200120_scenario_000_002_090",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 436,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "こんなに子宮口ひらかれて\n子宮までマスターのものになってっあふぁあっぁあぁあんっ！！",
+            "voice": "200120_scenario_000_002_091",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 437,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "えっちな天使にっえっちな天使になっちゃいますぅ\nふぁあっぁあっぁあ！！！",
+            "voice": "200120_scenario_000_002_092",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 438,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "快感の嵐に揉みくちゃになりながら、我を忘れて感じ悶えるアルに\nますます愛しさを感じて、最後の突き込みを激しくしていく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 439,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ひあっひぁあんっぁふぁあっ！！　激しいっ激しいのおぉっ\nオマンコずぼずぼ激しいのぉおっふぁあっ！！",
+            "voice": "200120_scenario_000_002_093",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 440,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "入ってるっ入ってりゅぅうっんっ\n子宮にチンポずぼずぼ入ってふああっぁあっぁあっ！！",
+            "voice": "200120_scenario_000_002_094",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 441,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "わたしっわたしっもうっイッちゃうのっイッちゃっああっあ\nふぁああっぁましゅたーのチンポで子宮イキしちゃうのっ",
+            "voice": "200120_scenario_000_002_095",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 442,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "はひっひぁああんっああっああもっと激しくなってりゅうぅ\nんふぁあっぁあっ！！",
+            "voice": "200120_scenario_000_002_096",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 443,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ああっぁあっマスターっああそのままっ子宮に出してくださいっ\nふぁあっあんっぁあああっぁあ！！",
+            "voice": "200120_scenario_000_002_097",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 444,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "マスターのどろどろ濃厚精液汁っわたしの子宮にドバドバ出してっ\nわたしの赤ちゃんルームをいっぱいにしてくださいっ",
+            "voice": "200120_scenario_000_002_098",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 445,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ああふぁあっぁあっぁあ！！　マスターも射精するのっ\nわかりますっふぁぁっぁあっわたし子宮内射精されちゃうっ",
+            "voice": "200120_scenario_000_002_099",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 446,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ああっああぅふぁあっぁああマスター出してくださいっ\nわたしの中に子宮にっオマンコに精液いっぱい出してええっ！",
+            "voice": "200120_scenario_000_002_100",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 447,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ふあっぁあっぁああああぁあましゅたぁあっふぁあぁんっっ\nぁあっぁああんっふぁああぁああああああああ！！",
+            "voice": "200120_scenario_000_002_101",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 451,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.2,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 452,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102722
+            }
+        ]
+    },
+    {
+        "command_id": 454,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.4,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 456,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 457,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 2001200504,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 458,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.35,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 460,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.75,
+        "resorce_id": null
+    },
+    {
+        "command_id": 461,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あぁああああひぁあっぁああああああああああああああああ\nあああぁあぁぁぁぁあああああああああ！！！",
+            "voice": "200120_scenario_000_002_102",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 462,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "絶頂に激しく収縮するアルナイルの膣壁に絞られながら、\n子宮内に大量の精液を流し込んでいく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 463,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ふっぁああお腹あついっ熱いのぉおっふぁあっぁあああ精液っ\n精液出てるっ子宮に出てっ溢れてふぁっぁああんっ！",
+            "voice": "200120_scenario_000_002_103",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 464,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "やわらかな膣壁と子宮壁に包まれながら、\nこりこりした弾力のある子宮口に絞られて延々と射精してしまう。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 465,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ああっふぁあっぁあまたイッちゃうっわたしまたイッっ\n子宮イキしちゃっふぁあっぁああぁああああああああああっ！",
+            "voice": "200120_scenario_000_002_104",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 466,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "高い嬌声をあげて絶頂しつづけるアルの膣全体が痙攣するように\n収縮して、俺の肉棒を根本から隈なく搾精していく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 467,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "あっぁふぁあああんっああっわたし搾っちゃってますっ\n精液オマンコで搾ってふぁああぁぁぁぁあんっ！！",
+            "voice": "200120_scenario_000_002_105",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 468,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ああっふぁあっぁあぁぁああんっマスターぁああぁんっ……\nマスターぁぁああんっ！！",
+            "voice": "200120_scenario_000_002_106",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 469,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "妊娠しちゃうっ孕んじゃうっマスターの子どもできちゃう\nふうぅううぁうふぁあぁぁあぁあんんっぁああああ！！",
+            "voice": "200120_scenario_000_002_107",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 470,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "快楽の涙を流しながら絶頂の高波の中で淫蕩な言葉をあげつづける\nアルの中へ、最後の一滴まで注ぎ込みつづけた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 473,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": 2001200505,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 474,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": "0",
+                "resorce_id": 102764
+            }
+        ]
+    },
+    {
+        "command_id": 476,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ふあ……はふ……ふぁ……ああ……",
+            "voice": "200120_scenario_000_002_108",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 477,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "とろっとろに蕩けきったアルの甘い声が部屋に響く。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 478,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ますたぁの精液……おなかいっぱいです……ふぁ……ああ……",
+            "voice": "200120_scenario_000_002_109",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 479,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "子宮こんなに精液でいっぱいなのに……こんなに溢れて……\nシーツどろどろになってます……",
+            "voice": "200120_scenario_000_002_110",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 480,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "はあ……マスターの精液とても熱くて……\nおなか……火傷しちゃいそうです……",
+            "voice": "200120_scenario_000_002_111",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 481,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ふぁ……ああ……マスター……わたしがサンタなのに、\nこんなに沢山いっぱいくださってありがとうございます……",
+            "voice": "200120_scenario_000_002_112",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 482,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "本当に……わたしは幸せな天使です……えへへ……",
+            "voice": "200120_scenario_000_002_113",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 483,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "え……また、たくさんえっちしような？　ですか？",
+            "voice": "200120_scenario_000_002_114",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 484,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "はい……もう……いっぱいしましょう……\nわたしの体も……心も……",
+            "voice": "200120_scenario_000_002_115",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 485,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200120,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "全部……全部……マスターだけのものですから",
+            "voice": "200120_scenario_000_002_116",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 487,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100106
+            },
+            {
+                "command_id": 488,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 490,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

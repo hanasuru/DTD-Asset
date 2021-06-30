@@ -1,0 +1,432 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100150,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "戴冠式前",
+            "sub_text": "リクビエル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 7,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 12,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 13,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 15,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 105610,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 16,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 105610,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 18,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 19,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 105610,
+                "text_option": {
+                    "character_name": "リクビエル",
+                    "character_text": "マスター。どうでしょうか、このドレス？",
+                    "voice": "105600_adv_001_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 22,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 23,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 25,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 105610,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 27,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 28,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 105610,
+                "text_option": {
+                    "character_name": "リクビエル",
+                    "character_text": "ふふ、緊張していないと言えば嘘になりますが、\nこれも天使としての私の勤めですわ",
+                    "voice": "105600_scenario_000_001_008",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 31,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 32,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.30000000000000004,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 34,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.22499999999999998,
+        "resorce_id": 105610,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 35,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.22499999999999998,
+        "resorce_id": 105610,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 37,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.07500000000000001,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 38,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 105610,
+                "text_option": {
+                    "character_name": "リクビエル",
+                    "character_text": "本日、こうして戴冠式が滞りなく行なわれるのも皆のおかげ……",
+                    "voice": "105610_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 41,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 42,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 44,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 105610,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 45,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 105610,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 47,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 105610,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 48,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 105610,
+                "text_option": {
+                    "character_name": "リクビエル",
+                    "character_text": "段取りは全て頭に入っています、何も問題はありません。\nマスターは見守っていて下さいませ",
+                    "voice": "105600_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 51,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 52,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 54,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

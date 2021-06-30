@@ -1,0 +1,900 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100142,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "中央広場の母",
+            "sub_text": "イニアス"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 7,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 11,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 12,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 14,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 16,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 17,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "この前、中央広場でテーブルを挟んで\n誰かと話してる我を見かけた？　しかも、何人か列が出来てた？",
+                    "voice": "109700_adv_002_006_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 20,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 21,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 23,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 24,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 26,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 27,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "ああ、それはなあ",
+                    "voice": "109700_adv_002_009_013",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 30,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 31,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "我ときおり、中央広場で占い兼人生相談をしているんだ。\nなかなかの人気を博しているぞ？",
+                    "voice": "109700_adv_002_001_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 34,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 35,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 37,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 38,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 40,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 41,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "そうだな、吸血鬼的に言えば、\n眷属を増やすための活動の一環、といったところだな",
+                    "voice": "109700_adv_002_003_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 44,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 45,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "ん？　いや？　占いの中身など問題では無いぞ。\n人はただ、望む言葉を望むように欲しているだけだ",
+                    "voice": "109700_adv_002_006_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 48,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 49,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 51,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 53,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 54,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "人それぞれに抱えた不安、孤独。我はそのひとつひとつに、\n細やかに寄り添い、彼等を圧倒的に肯定する。ただそれだけだ",
+                    "voice": "109700_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 57,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 58,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 60,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 61,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 63,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 64,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "我はそもそも、天使として人間たちを等しく愛しているのでな、\n迷える子羊の良き主人になりたいと考えているんだ",
+                    "voice": "109700_adv_003_015_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 67,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 68,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "人は皆、多かれ少なかれ、\n自らが望む主人の元で、幸福な奴隷として過ごしたいものだ",
+                    "voice": "109700_adv_002_009_011",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 71,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 72,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 74,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 75,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 77,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 78,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "だから我は、彼等が望む主人となろうと決めたんだ",
+                    "voice": "109700_adv_002_009_008",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 81,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 82,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "まあもっとも、一部では、主人ではなく母などと呼ばれている\nようだがな。ああそうだ、中央広場の母とか呼ばれているな",
+                    "voice": "109700_adv_002_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 85,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 86,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 88,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 90,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 91,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "何？　人気占い師のことを場所名の母と呼ぶ文化がある？\n何だそれは、ははは。なかなか愉快じゃないか",
+                    "voice": "109700_adv_002_006_004",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 94,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 95,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 97,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 98,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 100,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 101,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109700,
+                "text_option": {
+                    "character_name": "イニアス",
+                    "character_text": "なるほど、それで中央広場の母というわけか。ははは。だが\nせっかくだ、ここはやはり、中央広場の主人と呼ばれたいものだな",
+                    "voice": "109700_adv_003_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 104,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 105,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 107,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

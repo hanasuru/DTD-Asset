@@ -1,0 +1,223 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100150
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "調和を望む",
+            "sub_text": "スクド・フジ"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.5,
+        "resorce_id": 101900,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 8,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100101
+    },
+    {
+        "command_id": 11,
+        "command": "Text",
+        "command_option": "",
+        "command_time": null,
+        "resorce_id": 101900,
+        "text_option": {
+            "character_name": "スクド・フジ",
+            "character_text": "わたし、スクド・フジ。\n世界のバランスを保つために、このタクトをふるうものよ",
+            "voice": "101900_battle_000_skillsupport1_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 13,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 14,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 101900,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 16,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 101900,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 17,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 101900,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 19,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 101900,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 20,
+                "command": "Text",
+                "command_option": "",
+                "command_time": null,
+                "resorce_id": 101900,
+                "text_option": {
+                    "character_name": "スクド・フジ",
+                    "character_text": "それにしても……どうしてこんな不調和な世界に\n呼び出されたのかしら。納得いかないわ",
+                    "voice": "101900_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 23,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 101900,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 24,
+                "command": "Text",
+                "command_option": "",
+                "command_time": null,
+                "resorce_id": 101900,
+                "text_option": {
+                    "character_name": "スクド・フジ",
+                    "character_text": "万物は常に調和の中になくてはいけないの。\nだからマスターも整理整頓を忘れずにしてちょうだい",
+                    "voice": "101900_adv_001_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 27,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 28,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 30,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

@@ -1,0 +1,1864 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100145,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "ロゴスの話をするとしよう",
+            "sub_text": "ルシファー"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 7,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 11,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.15,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 12,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 14,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 15,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 17,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 18,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "やあ、君",
+                    "voice": "300700_adv_001_001_004",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 21,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 22,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 24,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 26,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 27,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "ここは静かだね。特にこの階は誰もいない……静かなものだ",
+                    "voice": "300700_adv_002_002_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 30,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 31,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "何を読んでいるかって？　聖書だよ。\n始めに言葉ありき、有名な言葉だ",
+                    "voice": "300700_adv_002_005_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 34,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 35,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 37,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 38,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 40,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 41,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "創世とは、神の言葉（ロゴス）であるとも言える。\n言葉とは、それだけ重要な意味を持つんだ",
+                    "voice": "300700_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 44,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 45,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 8,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 47,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 8,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 49,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 50,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "ＨＥＲＡが、便宜上とか言いながら、君の持つ名付けの力を\nロゴスパワーと呼んだのは、偶然じゃあない",
+                    "voice": "300700_adv_003_009_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 53,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 54,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 56,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 57,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 59,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 60,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "君は、アルナイルと出会ったときに、\n新世界の神としての可能性を見出されていたんだよ",
+                    "voice": "300700_adv_003_010_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 63,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 64,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "どういうことかって？",
+                    "voice": "300700_adv_002_005_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 67,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 68,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 70,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 72,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 73,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "アルナイルはイェレミエルだという話はしたね",
+                    "voice": "300700_adv_001_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 76,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 77,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "アルナイルはずっと、ただの見習い天使だった",
+                    "voice": "300700_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 80,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 81,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 83,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 84,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 86,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 87,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "イェレミエルという名前は伏せられ、\nエンジェルのひとりとして扱われていた",
+                    "voice": "300700_adv_002_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 90,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 91,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 93,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 94,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 96,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 97,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "アルナイルという存在を生み出したのは、君だってことだよ",
+                    "voice": "300700_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 100,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 101,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "第八の天使……悪魔との戦いの切り札となるであろうイェレミエル\nの存在を伏せたい天界にとっても、それは好都合だった",
+                    "voice": "300700_adv_002_009_005",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 104,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 105,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "そして同時に天界は、君という存在にも目をつけた",
+                    "voice": "300700_adv_001_001_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 108,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 109,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 111,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 112,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 114,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 115,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "君のなかに宿る、言葉の力の可能性……",
+                    "voice": "300700_adv_003_010_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 118,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 119,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "それは、新世界の神としての資格を十分に備えていたんだよ",
+                    "voice": "300700_adv_002_002_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 122,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 123,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 125,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 127,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 128,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "なぜ君のなかに宿ったかって？　うーん、多分だけど……",
+                    "voice": "300700_adv_003_006_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 131,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 132,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "エンジェルとして出会ったアルナイルが、君を助けたときに、\n天界とのなんらかの小径（パス）が通って……",
+                    "voice": "300700_adv_003_006_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 135,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 136,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 138,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 139,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 141,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 142,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "君の中にロゴスの力がおりて……そして宿ったんじゃないかな",
+                    "voice": "300700_adv_002_009_005",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 145,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 146,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 148,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 150,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 151,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "もっとも、これは私の憶測でしかないけれどね。\n流石の私でも、知らないことはあるんだよ",
+                    "voice": "300700_adv_003_009_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 154,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 155,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "アルナイルに聞いても知らないことだ",
+                    "voice": "300700_adv_002_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 158,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 159,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 161,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 162,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 164,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 165,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "知らないままでいいんじゃないかい？",
+                    "voice": "300700_adv_003_009_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 168,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 169,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 171,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 173,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 174,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "だって君との関係に、そんな大層な背景は必要ないだろう？",
+                    "voice": "300700_adv_002_008_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 177,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 178,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "君には、私の神になって欲しいと言ったけれど……",
+                    "voice": "300700_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 181,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 182,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.30000000000000004,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 184,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.22499999999999998,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 185,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.22499999999999998,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 187,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.07500000000000001,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 188,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "君はいつか、この電脳世界の神になるかも知れない人だった、\nというわけだよ",
+                    "voice": "300700_adv_002_009_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 191,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 192,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "そんなことを言われても？",
+                    "voice": "300700_adv_002_005_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 195,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 196,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 198,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 6,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 200,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 201,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "フフ。いいじゃないか",
+                    "voice": "300700_adv_003_004_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 204,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 205,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 207,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 208,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 300700,
+        "character_option": {
+            "body_variation": 2,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 210,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 300700,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 211,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300700,
+                "text_option": {
+                    "character_name": "ルシファー",
+                    "character_text": "私も楽しみにしているよ",
+                    "voice": "300700_adv_002_009_010",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 214,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 215,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 217,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

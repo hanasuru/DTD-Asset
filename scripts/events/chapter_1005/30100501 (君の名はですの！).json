@@ -1,0 +1,6616 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100141,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "君の名はですの！",
+            "sub_text": "第１話"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 7,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100119
+    },
+    {
+        "command_id": 11,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "天界から新しく来たジブリールが迷子になった？",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 13,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 14,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.3,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 16,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 18,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 19,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 21,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 12,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 22,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 12,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 24,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 25,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "はいですの！　そうですの！\n天使が一匹データルームから失踪アーンド迷子ですの！",
+                    "voice": "100_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 28,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 29,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 31,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 32,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": "0.1",
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 33,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 35,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 36,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "あんたがいきなりセクハラかましたんじゃないの？",
+                    "voice": "200300_adv_000_001_010",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 39,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 40,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 42,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 44,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 45,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 47,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 49,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 50,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "えっ、ラヴリエルさん、そうなんですか？　",
+                    "voice": "200100_adv_002_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 53,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 54,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 56,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 58,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 59,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 60,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 62,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 63,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 65,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 66,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "いきなりほにゃらら天使の毒牙にかかるなんて、かわいそうに……",
+                    "voice": "200200_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 69,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 70,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 72,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 74,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 75,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.03,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 76,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 78,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 79,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 81,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 82,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "えっえっ",
+                    "voice": "200100_adv_003_008_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 85,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 86,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 88,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 90,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.02,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 91,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 92,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 94,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 95,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.01,
+        "resorce_id": null
+    },
+    {
+        "command_id": 96,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 97,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.05,
+        "resorce_id": null
+    },
+    {
+        "command_id": 98,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": 0,
+            "position_y": 7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 99,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 100,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.01,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 102,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 103,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "違いますの！　むきー！\nどうしてすぐに何でもかんでもラヴのせいにするんですの！？",
+                    "voice": "100_adv_003_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 105,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "そりゃあなあ？",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 107,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 108,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 110,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 112,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 113,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 115,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 117,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 118,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "ねえ？",
+                    "voice": "200300_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 121,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 122,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": -160,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 124,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -160,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 125,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -160,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 127,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 128,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "ええ",
+                    "voice": "200200_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 131,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 132,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 134,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 135,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.2,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 136,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command_id": 137,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 138,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 139,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 141,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 142,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "えっと……あはは",
+                    "voice": "200100_adv_000_001_030",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 145,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 146,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 148,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 149,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "自分の胸に手を当ててよーく考えてみるんだな",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 151,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.2,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 152,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 153,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 155,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 156,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 158,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 159,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "…………",
+                    "voice": "100_adv_003_018_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 161,
+        "command": "Text",
+        "command_option": "Off",
+        "command_time": 0.3,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": null,
+            "character_text": null,
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 162,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 164,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 165,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 167,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 168,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 170,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 171,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "はっ",
+                    "voice": "100_adv_003_006_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 174,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 175,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 177,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 178,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 180,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 181,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "この可愛い胸をつるつるっと撫でてみても、\nラヴに心当たりはゼロですの！！！",
+                    "voice": "100_adv_003_015_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 183,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "わかったわかった。あと俺は撫でろとは言ってないから",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 184,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "ラヴをからかうのはここまでにして、\n迷子になった天使を探すとするか",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 186,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 187,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 189,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 191,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.15,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 192,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 194,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 195,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 197,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 198,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "はいっ",
+                    "voice": "200100_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 201,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 202,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 204,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 206,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 207,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 209,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 211,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 212,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "君が探すというならもちろん協力するわよ",
+                    "voice": "200200_adv_003_018_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 215,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 216,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "で？　いなくなった天使はどんな子なわけ？",
+                    "voice": "200300_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 219,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 220,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 222,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 224,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 225,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 227,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 229,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 230,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "むう～～～～～～～～～～",
+                    "voice": "100_adv_003_011_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 232,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "ラヴ？",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 234,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 235,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 237,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 238,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 240,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 241,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "知らないですの！",
+                    "voice": "100_adv_003_026_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 244,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": -240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 245,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 247,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 249,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.03,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 250,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 240,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 252,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 240,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 253,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 255,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 256,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "はあ！？　なんであんたが知らないわけ！？",
+                    "voice": "200300_adv_000_001_029",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 259,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.02,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 260,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -240,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 262,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -240,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 263,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.01,
+        "resorce_id": null
+    },
+    {
+        "command_id": 264,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -240,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 265,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.05,
+        "resorce_id": null
+    },
+    {
+        "command_id": 266,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -240,
+            "position_y": 7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 267,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -240,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 268,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.01,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 270,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 271,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ラヴはいわれのない冤罪をかぶせられて\nただいま絶賛おかんむり中ですの！　ぷんすこですの！",
+                    "voice": "100_adv_003_011_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 274,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 275,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": -240,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 277,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": -240,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 278,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": -240,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 280,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": -240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 281,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "自分たちで勝手に探せばいいんですの～～～！",
+                    "voice": "100_adv_003_026_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 284,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 285,
+                "command": "Character",
+                "command_option": "Off",
+                "command_time": 0.45,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 286,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.45,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 18,
+                    "position_x": -500,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 288,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 289,
+        "command": "Character",
+        "command_option": "OffAll",
+        "command_time": 0.2,
+        "resorce_id": null,
+        "character_option": {
+            "body_variation": null,
+            "face_variation": null,
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 290,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command_id": 291,
+        "command": "Bg",
+        "command_option": "Zoom",
+        "command_time": 0.3,
+        "resorce_id": 100141,
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": 1.15
+        }
+    },
+    {
+        "command_id": 292,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 293,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "いやいやいや待て待て待て",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 296,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 297,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100491
+            },
+            {
+                "command_id": 298,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": -500,
+                    "position_y": 0,
+                    "scale": 0.92
+                }
+            },
+            {
+                "command_id": 299,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": -420,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 301,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 302,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -418,
+            "position_y": 2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 303,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -422,
+            "position_y": -2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 304,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -418,
+            "position_y": -2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 305,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -422,
+            "position_y": 2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 306,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -420,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 307,
+        "command": "Se",
+        "command_option": "Off",
+        "command_time": 0.1,
+        "resorce_id": 100491
+    },
+    {
+        "command_id": 308,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 310,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100491
+            },
+            {
+                "command_id": 311,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": -280,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 313,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 314,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -278,
+            "position_y": 2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 315,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -282,
+            "position_y": -2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 316,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -278,
+            "position_y": -2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 317,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -282,
+            "position_y": 2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 318,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -280,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 319,
+        "command": "Se",
+        "command_option": "Off",
+        "command_time": 0.1,
+        "resorce_id": 100491
+    },
+    {
+        "command_id": 320,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 322,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 323,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": -140,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 324,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100491
+            }
+        ]
+    },
+    {
+        "command_id": 326,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -138,
+            "position_y": 2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 327,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -142,
+            "position_y": -2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 328,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -138,
+            "position_y": -2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 329,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.025,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -142,
+            "position_y": 2,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 330,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 7,
+            "position_x": -140,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 331,
+        "command": "Se",
+        "command_option": "Off",
+        "command_time": 0.1,
+        "resorce_id": 100491
+    },
+    {
+        "command_id": 332,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 334,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100491
+            },
+            {
+                "command_id": 335,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.6,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 336,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "は～な～せ～ですの～！",
+                    "voice": "100_adv_003_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 339,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": 100491
+            },
+            {
+                "command_id": 340,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": "<player>",
+                    "character_text": "今回は俺たちが悪かった。謝るからさ。ごめんな？",
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 343,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 344,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 346,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 347,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 349,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 350,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ぐすんっぐすんっ誠意が足りないですの……\n誠意は形で示して欲しいですの……",
+                    "voice": "100_adv_003_003_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 352,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200200,
+        "text_option": {
+            "character_name": "レグルス",
+            "character_text": "（明らかにウソ泣きね……）",
+            "voice": "200200_adv_003_014_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 354,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 355,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 357,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 358,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 360,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 361,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ほれほれ、例のやつをよこしやがれですの",
+                    "voice": "100_adv_003_027_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 363,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "わかった。……じゃあこのおでんの汁で",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 365,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 366,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 368,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 369,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 370,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 371,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.05,
+        "resorce_id": null
+    },
+    {
+        "command_id": 372,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 373,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 374,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 376,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 377,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ぐびっぐびっぐびっぐびっ！",
+                    "voice": "100_adv_005_002_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 380,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 381,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 383,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 384,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 386,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 387,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ふう……",
+                    "voice": "100_adv_003_018_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 389,
+        "command": "Text",
+        "command_option": "Off",
+        "command_time": 0.3,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": null,
+            "character_text": null,
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 390,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 392,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 393,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 395,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 396,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 398,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 399,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "まあ今回はこれくらいにしておいてやりますの",
+                    "voice": "100_adv_003_005_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 402,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 403,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 404,
+                "command": "Bg",
+                "command_option": "Zoom",
+                "command_time": 0.3,
+                "resorce_id": 100141,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 406,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 408,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 409,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 411,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 413,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 414,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "（おでんの汁で一気に解決できるメンタルコスパの良さ……）",
+                    "voice": "200300_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 416,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "（ちょろいというより、心配になってくるな……）",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 418,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 419,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "（ま、ほにゃらら天使がどこに沈んでも、\n　私には関係ないけど……）",
+                    "voice": "200200_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 422,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 423,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 425,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 426,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.2,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -240,
+            "position_y": 0,
+            "scale": 0.8
+        }
+    },
+    {
+        "command_id": 427,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 429,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": -240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 430,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "さて、データルームから失踪した天使はこの子ですの",
+                    "voice": "100_adv_003_028_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 435,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102801
+            },
+            {
+                "command_id": 436,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 101493
+            },
+            {
+                "command_id": 437,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 438,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.6,
+                "resorce_id": 106600,
+                "character_option": {
+                    "body_variation": 2,
+                    "face_variation": 1,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 440,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 442,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.3,
+                "resorce_id": 102801
+            },
+            {
+                "command_id": 443,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.3,
+                "resorce_id": 101493
+            }
+        ]
+    },
+    {
+        "command_id": 445,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.55,
+        "resorce_id": null
+    },
+    {
+        "command_id": 446,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -240,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 447,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -240,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 448,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -240,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 450,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": -240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 451,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "名前は確か……『アボカド』、ですの！！",
+                    "voice": "100_adv_003_027_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 453,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "うまそうだな",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 455,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 456,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 458,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 459,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": "0.1",
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 460,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 462,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 463,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 465,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 466,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 468,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 469,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "エビと合わせたいですね、サンドイッチにして♪",
+                    "voice": "200100_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 471,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "いいな！",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 473,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 474,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 476,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 477,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": "0.1",
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 478,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 480,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 481,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 483,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 484,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 486,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 487,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "ふたりともナチュラルにぼけない！",
+                    "voice": "200300_adv_003_015_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 490,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 491,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 493,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 494,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": "0.1",
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 15,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 495,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 497,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 15,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 498,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "じゃあ『アバアバ』？",
+                    "voice": "100_adv_003_009_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 501,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 502,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "それとも『ガバガバ』？",
+                    "voice": "100_adv_003_018_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 504,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "絶対違うな、あとなんでお前がわからなくなってんだよ",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 506,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 507,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 509,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 511,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 512,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 514,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 516,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 517,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "でも、天使の名前ってややこしいのが多いから、\nひょっとしたら合ってるかもしれないわよ",
+                    "voice": "200300_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 519,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "……ＨＥＲＡの職員に端末にデータを転送してもらおうか",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 521,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 522,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": -160,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 524,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -160,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 525,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -160,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 527,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 528,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "それが効率的ね",
+                    "voice": "200200_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 531,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 532,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 534,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 536,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.15,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 537,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 539,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 540,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 542,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 543,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "職員さんに連絡しておきますね！",
+                    "voice": "200100_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 545,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "ああ、頼むな",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 547,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 548,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 550,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 552,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 553,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 555,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 556,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 557,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 558,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.05,
+        "resorce_id": null
+    },
+    {
+        "command_id": 559,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 560,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 561,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 563,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 564,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ラヴに何かを頼む方が間違ってますの～♪",
+                    "voice": "100_adv_003_016_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 567,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 568,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 570,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 571,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": "0.1",
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 572,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 574,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 575,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "このほにゃらら天使、いい感じに開き直ってるわよ",
+                    "voice": "200300_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 577,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "ほっとけ",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 579,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 580,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 582,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 584,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 585,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 587,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 588,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 590,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 591,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ちなみに迷子の天使は、既にＥＤＥＮから脱出して、\n辺境の極小サーバに構築された植物園に向かったそうですの～",
+                    "voice": "100_adv_003_025_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 593,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "そういう話はきっちり説明できるんだな",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 595,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 596,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 598,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 599,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 601,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 602,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "ムラっ気は天才の証拠ですの♪",
+                    "voice": "100_adv_003_015_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 604,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "はいはい",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 606,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 607,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 609,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command_id": 610,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "よし、迷子の天使を探しにいくぞ",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 611,
+        "command": "Text",
+        "command_option": "Off",
+        "command_time": 0.2,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": null,
+            "character_text": null,
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 612,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 614,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.15,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 615,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 617,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 618,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 620,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 621,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "はいっ、頑張ります！",
+                    "voice": "200100_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 624,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 625,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 627,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 629,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 630,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 632,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 634,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 635,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "まったくしょうがないわね、さっさと終わらせるわよ",
+                    "voice": "200300_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 638,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 639,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": -160,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 641,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": -160,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 642,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": -160,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 644,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 645,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "はあ……面倒だけど、君がどうしてもっていうなら……\n聞かないわけにはいかないものね",
+                    "voice": "200200_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 648,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 649,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "あら、こいつはあんたに『どうしても……』なんて\nお願いしてないわよ？　お忙しいようでしたら仕事に戻られたら？",
+                    "voice": "200300_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 652,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": -160,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 653,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "別に、手伝わないとは言ってないわよ",
+                    "voice": "200200_adv_003_018_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 656,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 657,
+                "command": "Character",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 659,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 661,
+                "command": "Active",
+                "command_option": "Off",
+                "command_time": null,
+                "resorce_id": 200200
+            },
+            {
+                "command_id": 662,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.075,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": -160,
+                    "position_y": -40,
+                    "scale": 1.11
+                }
+            },
+            {
+                "command_id": 663,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 666,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 101131
+            },
+            {
+                "command_id": 667,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": -160,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 668,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.075,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.15
+                }
+            },
+            {
+                "command_id": 669,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "……ね、君？",
+                    "voice": "200200_adv_003_017_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 671,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "（うおっ、先輩が俺の腕に腕をからめたせいで、\n　た、たわわなものが俺の腕にむにゅっと……ぉおお！！）",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 673,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 674,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": -160,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 676,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": -160,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 677,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": -160,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 679,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": -160,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 680,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200200,
+                "text_option": {
+                    "character_name": "レグルス",
+                    "character_text": "さ、行きましょ",
+                    "voice": "200200_adv_001_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 684,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 685,
+                "command": "Character",
+                "command_option": "Off",
+                "command_time": 0.5,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 686,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.5,
+                "resorce_id": 200200,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": -500,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 688,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.03,
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 240,
+            "position_y": 7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 689,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 240,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 690,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 692,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 693,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200300,
+                "text_option": {
+                    "character_name": "ミューズ",
+                    "character_text": "ちょ、ちょっとお！？　なんでそいつと腕を組んで\n出て行くわけ！？　馴れ馴れしいんだから！！　離れなさいよー！",
+                    "voice": "200300_adv_003_015_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 697,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 698,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.4,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 699,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.4,
+                "resorce_id": 200300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -500,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 701,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command_id": 702,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.2,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 703,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 705,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 706,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 708,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 709,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 10,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 711,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 712,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "……迷子の天使さん、はじめての場所できっと困ってますよね。\n早く見つけられるようにしたいです",
+                    "voice": "200100_adv_002_003_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 715,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 716,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 718,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 719,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 721,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 200100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 722,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200100,
+                "text_option": {
+                    "character_name": "アルナイル",
+                    "character_text": "アルナイル、出動します！",
+                    "voice": "200100_battle_000_act2_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 725,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 726,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 728,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.1",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 730,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": "0.1",
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 731,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 733,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 734,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 735,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 736,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.05,
+        "resorce_id": null
+    },
+    {
+        "command_id": 737,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 738,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 739,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 741,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 742,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "いってらっしゃいですの～♪\nせいぜい頑張りやがれなのですの～♪",
+                    "voice": "100_adv_004_007_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 746,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100119
+            },
+            {
+                "command_id": 747,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 749,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

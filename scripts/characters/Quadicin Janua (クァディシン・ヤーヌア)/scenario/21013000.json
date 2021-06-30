@@ -1,0 +1,163 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100150
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "は、はじめまして",
+            "sub_text": "クァディシン・ヤーヌア"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.5,
+        "resorce_id": 101300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 8,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command_id": 10,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 101300,
+        "text_option": {
+            "character_name": "クァディシン・ヤーヌア",
+            "character_text": "クァディシン・ヤーヌア……です……。は、はじめまして……",
+            "voice": "101300_adv_001_004_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 12,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 101300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 13,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 101300,
+                "text_option": {
+                    "character_name": "クァディシン・ヤーヌア",
+                    "character_text": "お姉ちゃんのポルタとは双子で……\nイリンのふたりと四人で四柱天使って言われています",
+                    "voice": "101300_adv_002_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 16,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 101300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 17,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 101300,
+                "text_option": {
+                    "character_name": "クァディシン・ヤーヌア",
+                    "character_text": "いろいろ、こわいけど……がんばり……ます……\nああう、やっぱり……こわい……なあ……",
+                    "voice": "101300_adv_003_008_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 20,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 21,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 23,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

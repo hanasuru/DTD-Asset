@@ -1,0 +1,163 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100150
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "少々太ましい罰の天使",
+            "sub_text": "フトリエル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.5,
+        "resorce_id": 103700,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 8,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command_id": 11,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 103700,
+        "text_option": {
+            "character_name": "フトリエル",
+            "character_text": "マスターさん、はじめまして。フトリエルと言います。\n罰の天使ですが……罰をくだすのはちょっと苦手です",
+            "voice": "103700_adv_001_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 13,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 103700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 14,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 103700,
+                "text_option": {
+                    "character_name": "フトリエル",
+                    "character_text": "それにしても……わ、わ、わたし……なんでこんな体型\nなんでしょう？　天界ではもうちょっとスリムボディなんですよ？",
+                    "voice": "103700_adv_003_007_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 17,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 103700,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 18,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 103700,
+                "text_option": {
+                    "character_name": "フトリエル",
+                    "character_text": "名前？　名前のせいでしょうか……？　こ、こんな姿ですが、\nわたし、頑張りますので！　よろしくお願いします！",
+                    "voice": "103700_adv_003_009_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 21,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 22,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 24,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

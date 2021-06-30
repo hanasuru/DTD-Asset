@@ -1,0 +1,137 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100150
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "堕天使を狩る者",
+            "sub_text": "ザラキエル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.5,
+        "resorce_id": 100300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 8,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command_id": 9,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100300,
+        "text_option": {
+            "character_name": "ザラキエル",
+            "character_text": "私は死を司る天使ザラキエル。堕天使を狩りし者",
+            "voice": "100300_adv_001_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 10,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100300,
+        "text_option": {
+            "character_name": "ザラキエル",
+            "character_text": "神から与えられた、邪眼を使い、堕天の予兆がある天使すらも\n処分します",
+            "voice": "100300_adv_002_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 12,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 13,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100300,
+                "text_option": {
+                    "character_name": "ザラキエル",
+                    "character_text": "マスターといえども、邪悪の兆候があれば、私は躊躇無く\nあなたを殺します",
+                    "voice": "100300_battle_000_act1_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 16,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 17,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    }
+]

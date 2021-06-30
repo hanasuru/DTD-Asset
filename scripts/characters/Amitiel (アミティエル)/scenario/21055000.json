@@ -1,0 +1,163 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100150
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "第一印象最悪？",
+            "sub_text": "アミティエル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.5,
+        "resorce_id": 105500,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 8,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command_id": 12,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 105500,
+        "text_option": {
+            "character_name": "アミティエル",
+            "character_text": "お初にお目にかかる、わしの名はアミティエル。\n『真実の天使』と呼ばれておる",
+            "voice": "105500_adv_001_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 14,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 105500,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 15,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 105500,
+                "text_option": {
+                    "character_name": "アミティエル",
+                    "character_text": "先に言っておくが、わしは人嫌いじゃ。\n力になれるかどうかは、今後のおぬしの行動によるぞ",
+                    "voice": "105500_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 18,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 105500,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 19,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 105500,
+                "text_option": {
+                    "character_name": "アミティエル",
+                    "character_text": "自信があるのなら、わしを上手く操ってみるがいい……\nふふ、よろしく頼むぞ",
+                    "voice": "105500_adv_003_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 22,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 23,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 25,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

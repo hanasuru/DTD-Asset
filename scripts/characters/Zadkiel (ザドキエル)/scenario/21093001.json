@@ -1,0 +1,762 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100144,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "すべては記憶力",
+            "sub_text": "ザドキエル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 10,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 109792
+    },
+    {
+        "command_id": 11,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 4,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 13,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 14,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 16,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 18,
+                "command": "Bgm",
+                "command_option": "On",
+                "command_time": 0.5,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 19,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 20,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "……マスター、さっきから何か躍起になっているところすまないが\n何をしているのか尋ねても？",
+                    "voice": "109300_adv_001_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 23,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 24,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 26,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 27,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 29,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 30,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "同じところでミスして、どうしてもクリア出来ない？　なるほど\n……良ければ、プレイしているところを見せてもらっても？",
+                    "voice": "109300_adv_002_003_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 33,
+        "command": "Text",
+        "command_option": "Off",
+        "command_time": 0.3,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": null,
+            "character_text": null,
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 34,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 35,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 109791
+    },
+    {
+        "command_id": 36,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 3,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 38,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 39,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "…………ふむ",
+                    "voice": "109300_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 42,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.12,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 43,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.12,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 45,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 46,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 48,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 49,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "そこ、もう半呼吸待つと良いかも知れないな",
+                    "voice": "109300_adv_001_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 51,
+        "command": "Text",
+        "command_option": "Off",
+        "command_time": 0.3,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": null,
+            "character_text": null,
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 52,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 53,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 109793
+    },
+    {
+        "command_id": 54,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 3.7,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 56,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 57,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 59,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 60,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 62,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 63,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "……ん？　クリアできたか？　そうか、それは何よりだ",
+                    "voice": "109300_adv_003_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 66,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 67,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "攻略の秘訣？　そうだな……記憶力だろうか？　タイミングを\n記憶すれば易しい。マスターもすぐにクリア出来ただろう？",
+                    "voice": "109300_adv_003_009_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 70,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 71,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.23,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 73,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 74,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 76,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.08,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 77,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "大抵の物事は記憶力で解決できるものなのだよ。今マスターが\n遊んでいたゲームもそうだが、スポーツ、学問、戦……",
+                    "voice": "109300_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 80,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.12,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 81,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.12,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 83,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 84,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 109300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 86,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 109300,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 87,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109300,
+                "text_option": {
+                    "character_name": "ザドキエル",
+                    "character_text": "何であれ、まずはよく見て、しっかり記憶すると良いぞ。\nこれは全ての物事に通じる道だ",
+                    "voice": "109300_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 90,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 91,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 93,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

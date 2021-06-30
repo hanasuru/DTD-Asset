@@ -1,0 +1,4946 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100146,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "エッチ・その１",
+            "sub_text": "スピカ"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100106
+    },
+    {
+        "command_id": 12,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 101332
+    },
+    {
+        "command_id": 13,
+        "command": "Wa",
+        "command_option": null,
+        "command_time": 2,
+        "resorce_id": null
+    },
+    {
+        "command_id": 14,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "うんしょ……",
+            "voice": "109010_scenario_000_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 18,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 19,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.5,
+                "resorce_id": 100149,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 21,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 22,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 23,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 25,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 26,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "えっ？　荷物運ぶの手伝ってくれるの？\nそんなに重くないから、一人で大丈夫だよ",
+                    "voice": "109010_scenario_000_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 29,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 30,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 32,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 34,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 35,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "何が入ってるのかって……\n実は、ちょっとマーちゃんにお願いしたいことがあるんだよ",
+                    "voice": "109010_scenario_000_001_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 40,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 41,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 43,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 44,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 46,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 47,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "その……そろそろひな祭りでしょ？\n電脳空間だと、ひな人形ってほとんど置いてなくて……",
+                    "voice": "109010_scenario_000_001_004",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 50,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 51,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "ひな人形なんて作れない？\nううん、別に作ってもらおうっていうわけじゃないよ",
+                    "voice": "109010_scenario_000_001_005",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 54,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 55,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 57,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 59,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 60,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "その……わたしのコスチュームって、\nひな祭りの雰囲気があるでしょ？",
+                    "voice": "109010_scenario_000_001_006",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 63,
+                "command": "Shake",
+                "command_option": 0.18,
+                "command_time": 0.22,
+                "resorce_id": 109010
+            },
+            {
+                "command_id": 64,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 65,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "ひ、ひな祭りのパクリじゃないってば",
+                    "voice": "109010_scenario_000_001_007",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 68,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 69,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 71,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 72,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 74,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 75,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "こういうのはオマージュって言うんだよ",
+                    "voice": "109010_scenario_000_001_008",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 78,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 79,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 81,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 83,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 84,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "もう、話が逸れちゃったよ",
+                    "voice": "109010_scenario_000_001_009",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 87,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 88,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "その……マーちゃんの家って、和室あるよね？",
+                    "voice": "109010_scenario_000_001_010",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 91,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 92,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 94,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 95,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 97,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 98,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "そこを使って、ひな祭りをしたいんだけど……",
+                    "voice": "109010_scenario_000_001_011",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 101,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 102,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "でも、ひな人形がないから……\nわたしたちでお内裏様をやろうかなって思ってるんだ",
+                    "voice": "109010_scenario_000_001_012",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 105,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 106,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 108,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.3,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 110,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 111,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "意味がわからない？\nえっとね、マーちゃんにはお内裏様の格好をしてもらいたいんだよ",
+                    "voice": "109010_scenario_000_001_013",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 114,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 115,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 117,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 118,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 119,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 120,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.22,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 122,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100932
+            },
+            {
+                "command_id": 123,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 125,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 126,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 127,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 128,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 129,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 130,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 131,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 133,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.5,
+                "resorce_id": 100932
+            },
+            {
+                "command_id": 134,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 135,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "衣装だったら、もう持って来てるの……ほら、このカバンの中に",
+                    "voice": "109010_scenario_000_001_014",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 138,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 139,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 141,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 143,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 144,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "どうして持ってるんだって？　ひな祭りのことを知らない人に、\n教えてあげたくって用意してたんだよ",
+                    "voice": "109010_scenario_000_001_015",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 147,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 148,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 150,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 151,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 153,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 154,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "えっと、協力してくれないかな……？",
+                    "voice": "109010_scenario_000_001_016",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 157,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 158,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "あははは、そんな目で言われたら断れないって、\nわたし、どんな目をしてるのかな？",
+                    "voice": "109010_scenario_000_001_017",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 161,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 162,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 164,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 166,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 167,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "でも、協力してくれるってことでいいんだよね！",
+                    "voice": "109010_scenario_000_001_018",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 170,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 171,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 173,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 174,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 176,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 177,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "じゃあ、いま着てみようよ！　サイズもちゃんと合わせたいし",
+                    "voice": "109010_scenario_000_001_019",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 183,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 185,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 186,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 188,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 190,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100861
+            },
+            {
+                "command_id": 191,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 0.5,
+                "resorce_id": null
+            }
+        ]
+    },
+    {
+        "command_id": 193,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 195,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.03,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 196,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 198,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 199,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 201,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 202,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "わー、マーちゃん、似合う似合う！",
+                    "voice": "109010_scenario_000_001_020",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 205,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 206,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 208,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 209,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 211,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 212,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "本物のお内裏様みたいだよ！",
+                    "voice": "109010_scenario_000_001_021",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 215,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 216,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 218,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 220,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 221,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "えっ？　本物見たことあるのかって？　な、ないけど",
+                    "voice": "109010_scenario_000_001_022",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 224,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 225,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 227,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 228,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 230,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 231,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "うん、でもすごく似合ってるよ。格好いいと思う",
+                    "voice": "109010_scenario_000_001_023",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 234,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 235,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "袖の長さとか平気？　窮屈なところがあったら教えてね",
+                    "voice": "109010_scenario_000_001_024",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 238,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 239,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 241,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 243,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 244,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "大丈夫？　うん、でも、本当によく似合ってるよ",
+                    "voice": "109010_scenario_000_001_025",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 247,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 248,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 250,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 251,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 252,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command_id": 253,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 254,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 255,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 257,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 258,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "えっ？　わたしも可愛い？\nも、もう、わたしは普段と変わんないよ",
+                    "voice": "109010_scenario_000_001_026",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 261,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 262,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 264,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 266,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 267,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "可愛いだけじゃなくてエロい？　そ、それ、誉めてるのかな？",
+                    "voice": "109010_scenario_000_001_027",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 270,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 271,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 273,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 274,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 275,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 276,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.25,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 278,
+                "command": "Shake",
+                "command_option": 0.2,
+                "command_time": 0.2,
+                "resorce_id": 109010
+            },
+            {
+                "command_id": 279,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 7,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 280,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "もう勃っちゃったって……ええっ？\nだ、だって、なんにもしてないよ？",
+                    "voice": "109010_scenario_000_001_028",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 283,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 284,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 286,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 288,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 289,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "この衣装を着てると興奮するって言われても……\n興奮する要素なんてないと思うんだけど……",
+                    "voice": "109010_scenario_000_001_029",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 292,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 293,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 295,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 296,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 298,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 299,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "その……大きくなってるのがわかると、\nわたしまで変な気分になっちゃうよ……",
+                    "voice": "109010_scenario_000_001_030",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 302,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 303,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 305,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 307,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 308,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "が、我慢出来ない？　う、うん……",
+                    "voice": "109010_scenario_000_001_031",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 311,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 312,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 314,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 315,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 317,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 318,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "わたしも……ちょっとだけ、我慢出来ないかな……？",
+                    "voice": "109010_scenario_000_001_032",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 321,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 322,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 324,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 325,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 327,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 328,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "ちょ、ちょっとだよ！\nわ、わたし、エッチな女の子じゃないからね！？",
+                    "voice": "109010_scenario_000_001_033",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 331,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 332,
+                "command": "Shake",
+                "command_option": 0.23,
+                "command_time": 0.23,
+                "resorce_id": 109010
+            },
+            {
+                "command_id": 333,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 335,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.25,
+        "resorce_id": null
+    },
+    {
+        "command_id": 336,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 337,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 339,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 340,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "えっ、あっ、お、大きくなったの、直接見せなくてもいいよ……",
+                    "voice": "109010_scenario_000_001_034",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 343,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15000000000000002,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 344,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.30000000000000004,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 346,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.22499999999999998,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 347,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.22499999999999998,
+        "resorce_id": 109010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 349,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.07500000000000001,
+                "resorce_id": 109010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 350,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109010,
+                "text_option": {
+                    "character_name": "スピカ",
+                    "character_text": "じゃ、じゃあ……ちょ、ちょっとだけ……",
+                    "voice": "109010_scenario_000_001_035",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 353,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 355,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 1,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 356,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 357,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 359,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 361,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100865
+            },
+            {
+                "command_id": 362,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 0.2,
+                "resorce_id": null
+            }
+        ]
+    },
+    {
+        "command_id": 364,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 365,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "えっ？　あ、あれ？　こ、これって……",
+            "voice": "109010_scenario_000_001_036",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 366,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ろ、ローション？　滑りがよくなる？",
+            "voice": "109010_scenario_000_001_037",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 367,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ね、ねぇ……",
+            "voice": "109010_scenario_000_001_038",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 370,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 371,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": "1090100301",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 373,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "そ、その、お、お尻に……するの？",
+            "voice": "109010_scenario_000_001_039",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 374,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お尻でしたい？　そ、そうなんだ……",
+            "voice": "109010_scenario_000_001_040",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 375,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "べ、別に嫌じゃないよ。マーちゃんがしたいなら……それでいいよ",
+            "voice": "109010_scenario_000_001_041",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 376,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "で、でも、ちょっとドキドキするね……",
+            "voice": "109010_scenario_000_001_042",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 377,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あんっ……耳に息吹きかけられると……んふっ……",
+            "voice": "109010_scenario_000_001_043",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 378,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "それに、んふっ、このローション、すごくぬるぬるして、\nんっ、エッチな感じだよ……",
+            "voice": "109010_scenario_000_001_044",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 379,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あんっ、お尻の柔らかい所に、んんっ、おちんちん当たってる……",
+            "voice": "109010_scenario_000_001_045",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 380,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "こんなに硬くなってるんだね……あんっ",
+            "voice": "109010_scenario_000_001_046",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 381,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "耳たぶ噛んじゃダメだよぉ……んんっ",
+            "voice": "109010_scenario_000_001_047",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 382,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はぁっ、んんっ、あんっ、ムズムズする、んはっ",
+            "voice": "109010_scenario_000_001_048",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 383,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "どこがって……そんなの言えないよぉ……あふっ",
+            "voice": "109010_scenario_000_001_049",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 384,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "息が、んっ、わたしの耳にかかって、んっ……",
+            "voice": "109010_scenario_000_001_050",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 385,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "興奮してるのが、伝わって来て、\nんふっ、背中がゾクゾクするよ……",
+            "voice": "109010_scenario_000_001_051",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 386,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んくっ、んんっ、はぁっ……ああんっ、首筋舐めちゃダメぇ……",
+            "voice": "109010_scenario_000_001_052",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 387,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はあっ、んっ、くすぐったい、あっ、ああっ",
+            "voice": "109010_scenario_000_001_053",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 388,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "身体がっ、んんっ、どんどん熱くなってっ、ふぁっ、んんっ",
+            "voice": "109010_scenario_000_001_054",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 389,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はぁはぁはぁ……",
+            "voice": "109010_scenario_000_001_055",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 390,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "……えっ……おまんこは濡れてるかって……\nわ、わかんないよぉ……ひゃああんっ！",
+            "voice": "109010_scenario_000_001_056",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 391,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んんっ！　きゅ、急に、んはっ、\nおまんこ触ったらダメだよぉ、あっ、んんっ",
+            "voice": "109010_scenario_000_001_057",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 392,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "グチョグチョじゃないってばぁ、あっ、んんっ、んああっ、あふっ",
+            "voice": "109010_scenario_000_001_058",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 393,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あっ、指入れたらっ、んんんっ！",
+            "voice": "109010_scenario_000_001_059",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 394,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ああんっ、ズボズボさせたらいやだよぉっ、指動かしちゃっ、\nふぁっ、んんっ、はあっ",
+            "voice": "109010_scenario_000_001_060",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 395,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ふぁっ、んっ、おまんこからっ、じゅぶじゅぶってっ、\nエッチな音っ、しちゃってるっ、ああんっ",
+            "voice": "109010_scenario_000_001_061",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 396,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んあああっ、かき混ぜちゃいやだよぉっ、ふぁっ、んんっ、ああっ",
+            "voice": "109010_scenario_000_001_062",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 397,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はあっ、んんっ、そんなにっ、んくっ、指っ、入れられたらっ、\n指だけで気持ち良くなっちゃうよぉ……",
+            "voice": "109010_scenario_000_001_063",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 398,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "おちんちんの前にっ、気持ち良くなりすぎるのいやだよぉ……\nふぁああっ",
+            "voice": "109010_scenario_000_001_064",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 399,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んふっ……指抜いてく……あああああんっ！！",
+            "voice": "109010_scenario_000_001_065",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 400,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ふぁああっ！　クリトリスっ、つまんじゃだめっ、\nいまっ、敏感になってるからぁっ！",
+            "voice": "109010_scenario_000_001_066",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 401,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "だめっ、ほんとにだめっ、あっ、ああっ、んんんんっ！！",
+            "voice": "109010_scenario_000_001_067",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 402,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "身体に力がっ、んんっ、入らなくなっちゃうよぉっ、\nふぁっ、んんっ",
+            "voice": "109010_scenario_000_001_068",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 403,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "スピカの体重がより一層俺にかかってきて、\n言葉通り力が入らなくなったらしい。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 404,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はぁはぁ……んっ……",
+            "voice": "109010_scenario_000_001_069",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 405,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "おまんこ……もうグチュグチュになっちゃったよぉ……んはっ",
+            "voice": "109010_scenario_000_001_070",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 406,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "恥ずかしすぎて、逆に恥ずかしくなくなっちゃった……あはは……",
+            "voice": "109010_scenario_000_001_071",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 407,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ねぇ……わたし……",
+            "voice": "109010_scenario_000_001_072",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 408,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "もう……欲しいよ……",
+            "voice": "109010_scenario_000_001_073",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 409,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "な、なにがって……もう、わかってるくせに……",
+            "voice": "109010_scenario_000_001_074",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 410,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "わ、わかったよ……言えばいいんだよね……？",
+            "voice": "109010_scenario_000_001_075",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 411,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "もう、人のこと恥ずかしがらせるの、好きなんだから……",
+            "voice": "109010_scenario_000_001_076",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 412,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "わたしのおまんこに、おちんちんください……",
+            "voice": "109010_scenario_000_001_077",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 413,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "えっ？　ダメ？",
+            "voice": "109010_scenario_000_001_078",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 414,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "う～～～じゃあ……",
+            "voice": "109010_scenario_000_001_079",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 415,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "わたしのグチュグチュに濡れたいやらしいおまんこに、\n硬くてぶっといおちんちん挿れてください……",
+            "voice": "109010_scenario_000_001_080",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 416,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "興奮したけどダメ？　ど、どういうこと？",
+            "voice": "109010_scenario_000_001_081",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 417,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "今日のおちんちんはアナル専用？\nえっ……あっ……ああああああああああああああんっ！！",
+            "voice": "109010_scenario_000_001_082",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 420,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102711
+            },
+            {
+                "command_id": 421,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": "1090100302",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 423,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んんんんんんんっ！！",
+            "voice": "109010_scenario_000_001_083",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 424,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ちょっ……待って……あっ……くふぅ……",
+            "voice": "109010_scenario_000_001_084",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 425,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んあっ、少し……うごか……ない……で……んはっ",
+            "voice": "109010_scenario_000_001_085",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 426,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はぁはぁはぁ……",
+            "voice": "109010_scenario_000_001_086",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 427,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んふっ……んっ……少しずつ……",
+            "voice": "109010_scenario_000_001_087",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 428,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "おちんちんが……お尻の奥に……ふぁっ……入って……\nんっ……はああんっ",
+            "voice": "109010_scenario_000_001_088",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 429,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はぁはぁはぁ……もう……少し……んんっ",
+            "voice": "109010_scenario_000_001_089",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 430,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んふっ……はああああああああああああああああんっ！！",
+            "voice": "109010_scenario_000_001_090",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 431,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "腰を下ろすかのように体重をかけると、\nスピカのアナルがペニスを根元までくわえ込んだ。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 432,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はぁっ、はぁっ、はぁっ……",
+            "voice": "109010_scenario_000_001_091",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 433,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んはっ……おちんちん……わたしのお尻に……\n全部入っちゃった……ね",
+            "voice": "109010_scenario_000_001_092",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 434,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あんっ……",
+            "voice": "109010_scenario_000_001_093",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 435,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お尻でも、おちんちんがビクンって動くの、わかるんだね……",
+            "voice": "109010_scenario_000_001_094",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 436,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "うん……平気……もうそんなに痛くないよ……",
+            "voice": "109010_scenario_000_001_095",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 437,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ただ、なんかモゾモゾするっていうか……不思議な感じだよ……",
+            "voice": "109010_scenario_000_001_096",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 438,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "でも、最初よりは……その……もう慣れてきた……かな？",
+            "voice": "109010_scenario_000_001_097",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 440,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1090100303",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 441,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あんっ……",
+            "voice": "109010_scenario_000_001_098",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 442,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "なんか、マーちゃんが普段と違う格好だから、\n変な気分だね……んふっ",
+            "voice": "109010_scenario_000_001_099",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 443,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お内裏様になりきってみようか？　って……どうするの……？",
+            "voice": "109010_scenario_000_001_100",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 444,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "『おひな様のアナル、キツキツで気持ちいいね』……って、\nも、もう……お内裏様はそんなこと言わないよ……",
+            "voice": "109010_scenario_000_001_101",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 445,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お内裏様のおちんちんだって、わたしのお尻でビクンビクンして、\nあっ、ふぁあっ",
+            "voice": "109010_scenario_000_001_102",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 446,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んんっ……はぁっ……",
+            "voice": "109010_scenario_000_001_103",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 447,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "昔の人も、おちんちんって言ってたのかな……？",
+            "voice": "109010_scenario_000_001_104",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 448,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "おちんちんなんて口に出して言う方が珍しいって？\nそ、そんなことないもん……",
+            "voice": "109010_scenario_000_001_105",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 449,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あっ……んっ……おちんちん、おっきくなってきてる……ふぁっ",
+            "voice": "109010_scenario_000_001_106",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 450,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "うん……もう平気だよ……いいよ、動いても……",
+            "voice": "109010_scenario_000_001_107",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 451,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "この場合、わたしを動かしてもいい……かな？",
+            "voice": "109010_scenario_000_001_108",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 452,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あっ……んああっ",
+            "voice": "109010_scenario_000_001_109",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 453,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "スピカの両足を抱えて、\nペニスへ打ち付けるようにゆっくり動かしていく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 454,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んんっ、ふぁあっ",
+            "voice": "109010_scenario_000_001_110",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 455,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "うん……平気だよ……本当……あっ、ああんっ",
+            "voice": "109010_scenario_000_001_111",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 456,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ふわあっ、これっ、んんっ、ちがうっ、ああんっ",
+            "voice": "109010_scenario_000_001_112",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 457,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "いつもとっ、んんっ、感覚がっ、ふぁっ、\n全然違うっ、あっ、んはあっ",
+            "voice": "109010_scenario_000_001_113",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 458,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "おまんこにっ、んくっ、おちんちん入ってる時とっ、ふぁっ、\nちがうっ、んくぅっ",
+            "voice": "109010_scenario_000_001_114",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 459,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お腹の中がっ、窮屈な感じだけどっ、ふぁっ、\nでもっ、でもぉっ……",
+            "voice": "109010_scenario_000_001_115",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 460,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "だんだんっ、んあっ、おちんちんの感覚がっ、すごく伝わってっ、\nんくっ、ふぁあっ",
+            "voice": "109010_scenario_000_001_116",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 461,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "おまんこよりっ、んくっ、おちんちんっ、感じられるみたいっ、\nああっ、んんっ、んくぅっ",
+            "voice": "109010_scenario_000_001_117",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 462,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "だからっ、あっ、んんっ、いいっ、気持ちいいっ、みたいっ、\nふぁっ、んんっ、んあっ",
+            "voice": "109010_scenario_000_001_118",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 463,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "だ、だってっ、んっ、まだっ、よくっ、んくっ、\nわかんっ、ないっ、あっ、ああんっ",
+            "voice": "109010_scenario_000_001_119",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 464,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "快感を掻き立てるように、徐々に動きを大きくし、\n奥深くまで入るよう動かしていく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 465,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あっ、それっ、んんっ！",
+            "voice": "109010_scenario_000_001_120",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 466,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "やっぱりっ、あんっ、いいっ、気持ちいいっ、\n気持ちいいみたいじゃなくてっ、ふぁっ、気持ちいいっ！",
+            "voice": "109010_scenario_000_001_121",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 467,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んんっ、おまんこからっ、あんっ、お汁が出てっ、んくっ、\n止まらないよおおおっ！",
+            "voice": "109010_scenario_000_001_122",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 468,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お尻っ、んんっ、わたしっ、お尻でっ、感じちゃってるっ、\nんくっ、んはっ",
+            "voice": "109010_scenario_000_001_123",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 469,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ふぁああっ！　お尻におちんちん挿れられてっ、\n気持ち良くなっちゃってるよおおおっ！",
+            "voice": "109010_scenario_000_001_124",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 470,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "だめっ、んんっ、ああっ、気持ちいいのっ、止まらないよっ、\nああんっ、んああっ！",
+            "voice": "109010_scenario_000_001_125",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 471,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お尻とっ、おまんこがっ、すごく敏感になってっ、ああんっ、\n両方気持ち良くなっちゃってるよおおっ、ああんっ！",
+            "voice": "109010_scenario_000_001_126",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 472,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んあああっ、だめっ、このまま続けたらっ、わたしっ、んああっ",
+            "voice": "109010_scenario_000_001_127",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 473,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ほんとにっ、んくっ、おちんちんのことしかっ、\n考えられなくなっちゃうよおおおおっ！",
+            "voice": "109010_scenario_000_001_128",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 474,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "それでもいいっ？　だめっ、ああんっ、\nわたしっ、そんなっ、エッチな女の子じゃっ、ないもんっ！",
+            "voice": "109010_scenario_000_001_129",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 475,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "いっつもっ、んあっ、おちんちんのことばっかりっ、んくっ、\n考えてるんじゃないんだからあぁっ！",
+            "voice": "109010_scenario_000_001_130",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 476,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ふわああっ、んんっ、ああんっ、んくっ、んんっ",
+            "voice": "109010_scenario_000_001_131",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 477,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んはっ、おちんちんっ、どんどん大きくなってっ、ああっ、\nんんっ、んああっ",
+            "voice": "109010_scenario_000_001_132",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 478,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "イキっ、そう？\nああっ、んんっ、うんっ、わたしもっ、うんっ、もうっ",
+            "voice": "109010_scenario_000_001_133",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 479,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "一緒にっ、気持ち良くなってっ、あっ、んんっ、あふっ",
+            "voice": "109010_scenario_000_001_134",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 480,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んはっ、精液っ、お尻にっ、いっぱい出してっ、いいからねっ、\nあっ、んんっ、、あふっ",
+            "voice": "109010_scenario_000_001_135",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 481,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "マーちゃんがっ、気持ち良くなってくれたらっ、んあっ、\nわたしもっ、うれしいんだからあっ、ふぁあっ",
+            "voice": "109010_scenario_000_001_136",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 482,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "膣口とは違った強い締め付けが亀頭に襲いかかってくる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 483,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んぐぅっ！　ふぁあっ、奥っ、奥にいっ！",
+            "voice": "109010_scenario_000_001_137",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 484,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "おちんちんっ、奥にっ、んくっ、届いてっ、ふぁあっ！",
+            "voice": "109010_scenario_000_001_138",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 485,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "ごめっ、ごめんねっ、\nもうっ、もうっ、我慢出来ないっ、みたいっ！",
+            "voice": "109010_scenario_000_001_139",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 486,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お尻っ、お尻でっ、おしりの穴でっ！！",
+            "voice": "109010_scenario_000_001_140",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 487,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ふっと頭の中が白くなり、限界の訪れを感じた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 488,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お尻の穴でっ、気持ち良くなっちゃうよおおおおおおおっ！\nふぁああああああああああああんっ！！",
+            "voice": "109010_scenario_000_001_141",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 492,
+                "command": "Flash",
+                "command_option": "1",
+                "command_time": "0.2",
+                "resorce_id": "1"
+            },
+            {
+                "command_id": 493,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": "0",
+                "resorce_id": "102722"
+            }
+        ]
+    },
+    {
+        "command_id": 495,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.4",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 497,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 498,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.2",
+                "resorce_id": "1090100304",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 499,
+                "command": "Flash",
+                "command_option": "1",
+                "command_time": "0.35",
+                "resorce_id": "1"
+            }
+        ]
+    },
+    {
+        "command_id": 501,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.75",
+        "resorce_id": null
+    },
+    {
+        "command_id": 502,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "んんんっ！　はぁはぁはぁ……",
+            "voice": "109010_scenario_000_001_142",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 504,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1090100305",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 505,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "わた……し……",
+            "voice": "109010_scenario_000_001_143",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 506,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お尻の穴で……気持ち良くなっちゃったよ……あふっ",
+            "voice": "109010_scenario_000_001_144",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 507,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "だめ……身体に力が入らないみたい……あはは……",
+            "voice": "109010_scenario_000_001_145",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 508,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あんっ……お尻からザーメン出てきたよ……",
+            "voice": "109010_scenario_000_001_146",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 509,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "マーちゃん……気持ち良かった……？",
+            "voice": "109010_scenario_000_001_147",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 510,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "最高って言われても、喜んでいいのかな？　恥ずかしいよ……",
+            "voice": "109010_scenario_000_001_148",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 511,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "でも……わたしも最高だったかも……",
+            "voice": "109010_scenario_000_001_149",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 512,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "も、もう、エロいとか言わないでよ～",
+            "voice": "109010_scenario_000_001_150",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 513,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "そんなこと言うなら、もうエッチなことしないんだから",
+            "voice": "109010_scenario_000_001_151",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 514,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あんっ、またおちんちん大きくなってきたぁ……",
+            "voice": "109010_scenario_000_001_152",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 515,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "えっ？　またしたいの？",
+            "voice": "109010_scenario_000_001_153",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 516,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "そ、その……",
+            "voice": "109010_scenario_000_001_154",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 517,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "す、するのはいいけど……",
+            "voice": "109010_scenario_000_001_155",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 518,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "次は、普通のエッチでお願いします……",
+            "voice": "109010_scenario_000_001_156",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 519,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "お、おまんこに挿れて欲しいなんて言ってないよ～",
+            "voice": "109010_scenario_000_001_157",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 520,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "……意味はおんなじだけど",
+            "voice": "109010_scenario_000_001_158",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 521,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "はぁ、どんどんエッチな女の子になってる気がするよ……\nえっ？　そっちの方が好き？",
+            "voice": "109010_scenario_000_001_159",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 522,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109010,
+        "text_option": {
+            "character_name": "スピカ",
+            "character_text": "あははっ、うん、それなら気にしないことにするよ♪",
+            "voice": "109010_scenario_000_001_160",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 524,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100106
+            },
+            {
+                "command_id": 525,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 527,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

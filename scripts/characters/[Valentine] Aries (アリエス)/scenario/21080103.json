@@ -1,0 +1,4048 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100146,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "エッチ・その１",
+            "sub_text": "アリエス"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": 0.75,
+        "resorce_id": 100158,
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100106
+    },
+    {
+        "command_id": 12,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 13,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 101332
+    },
+    {
+        "command_id": 14,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1.75,
+        "resorce_id": null
+    },
+    {
+        "command_id": 15,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "おじゃましまーす",
+            "voice": "108010_scenario_000_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 18,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.2,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 19,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.5,
+                "resorce_id": 100149,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 21,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 23,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.5,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 50,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 24,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.5,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 26,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 27,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 28,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 30,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 31,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "……ふぅ、とりあえず、荷物置かせてもらっていいかな？",
+                    "voice": "108010_scenario_000_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 34,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.12,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 35,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.12,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 37,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 38,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 39,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 40,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.36,
+        "resorce_id": null
+    },
+    {
+        "command_id": 41,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.23,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 42,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 43,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 45,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.08,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 46,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "ありがとう……うんしょ。カバンがパンパンだよ",
+                    "voice": "108010_scenario_000_001_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 49,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 50,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 52,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 54,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 55,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "そんなにいっぱい何が入ってるのかって……知りたい？",
+                    "voice": "108010_scenario_000_001_004",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 58,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 59,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.23,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 61,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 62,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 63,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.08,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 64,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.35,
+        "resorce_id": null
+    },
+    {
+        "command_id": 65,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.12,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 66,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 67,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 69,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 70,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "答えはね……はい、お菓子作りの材料と調理道具でしたー！",
+                    "voice": "108010_scenario_000_001_005",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 73,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 74,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 76,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 78,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 79,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "お兄ちゃん、部屋に調理道具なんてないでしょ？",
+                    "voice": "108010_scenario_000_001_006",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 82,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 83,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "お、お皿とスプーンは、調理道具って言わないんじゃないかな？",
+                    "voice": "108010_scenario_000_001_007",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 86,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 87,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 89,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 90,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 92,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 93,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "今日は、ある物を作ろうと思って、色々準備してきたんだよ",
+                    "voice": "108010_scenario_000_001_008",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 96,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 97,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "なんだと思う？　調理道具なんだから、だいたい想像つくよね？",
+                    "voice": "108010_scenario_000_001_009",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 100,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 101,
+                "command": "Shake",
+                "command_option": 0.14,
+                "command_time": 0.17,
+                "resorce_id": 108010
+            },
+            {
+                "command_id": 102,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 104,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.2,
+        "resorce_id": null
+    },
+    {
+        "command_id": 105,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 106,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 108,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 109,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "チャーハン食べたいって、きょ、今日はそういうのじゃないから！",
+                    "voice": "108010_scenario_000_001_010",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 112,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 113,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 115,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 116,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 117,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 118,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.05,
+        "resorce_id": null
+    },
+    {
+        "command_id": 119,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 120,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 121,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 123,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 124,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "持ってきてるのは、お菓子作りの材料とお菓子作りの道具なの！",
+                    "voice": "108010_scenario_000_001_011",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 127,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 128,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 130,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.3,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 131,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.3,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 132,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 133,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.12,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 134,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 135,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.07,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 137,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 138,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "この時期に作るお菓子って言ったら、わかるでしょ？\n……はい！　お答えをどうぞ！",
+                    "voice": "108010_scenario_000_001_012",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 141,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 142,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 144,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 145,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 147,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 148,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "そう！　チョコレートでーす！",
+                    "voice": "108010_scenario_000_001_013",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 151,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 152,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "本番はまだちょっと先だけど、お兄ちゃんの好みも\nもっと知っておきたいから、ここで作らせてもらおうと思って",
+                    "voice": "108010_scenario_000_001_014",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 155,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 156,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 158,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 160,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 161,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "じゃあ、お台所借りてもいいかな？",
+                    "voice": "108010_scenario_000_001_015",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 164,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 165,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 167,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 168,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 170,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 171,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "うん、ありがと。じゃあ、お兄ちゃんはちょっと待っててくれる？",
+                    "voice": "108010_scenario_000_001_016",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 174,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 175,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "あっ……せっかくだから……",
+                    "voice": "108010_scenario_000_001_017",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 179,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 180,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.23,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 182,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 183,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.18,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 185,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.08,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 186,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "ご主人様、少々お待ち頂けますか？",
+                    "voice": "108010_scenario_000_001_018",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 189,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 190,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 192,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 108010,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 194,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 108010,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 195,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 108010,
+                "text_option": {
+                    "character_name": "アリエス",
+                    "character_text": "えへへ、じゃあ、楽しみに待っててね♪",
+                    "voice": "108010_scenario_000_001_019",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 199,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 201,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 202,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 204,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 205,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 206,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 208,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "お兄ちゃーん、ちょっと来てくれるー？",
+            "voice": "108010_scenario_000_001_020",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 209,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "いま、手が離せないんだよー！",
+            "voice": "108010_scenario_000_001_021",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 211,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 213,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100158,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 214,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 215,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 217,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 218,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 219,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command_id": 220,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "準備はだいたい出来たんだ……あとは……",
+            "voice": "108010_scenario_000_001_022",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 221,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "お兄ちゃん、少しだけなんにも言わないで、\nひかりの言う通りにしてくれる？",
+            "voice": "108010_scenario_000_001_023",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 222,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "わかった？　うん、話が早くて助かるよ……じゃあ……",
+            "voice": "108010_scenario_000_001_024",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 225,
+                "command": "Shake",
+                "command_option": 0.2,
+                "command_time": 0.2,
+                "resorce_id": null
+            },
+            {
+                "command_id": 226,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 227,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100861
+            }
+        ]
+    },
+    {
+        "command_id": 229,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 230,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ほら、ズボンを脱がされたくらいで騒がない！",
+            "voice": "108010_scenario_000_001_025",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 231,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "これをこうして……ペタペターっと……はい、完成だよ",
+            "voice": "108010_scenario_000_001_026",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 234,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.25,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 235,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": "1080100301",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 237,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.5",
+        "resorce_id": null
+    },
+    {
+        "command_id": 238,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "わー……や、やっぱり大きいね",
+            "voice": "108010_scenario_000_001_027",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 239,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えへへ、お兄ちゃんのおちんちんに、チョコのプレゼントだよ",
+            "voice": "108010_scenario_000_001_028",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 240,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "塗ってる間にどんどん大きくなるから、\nチョコが足りなくなるかと思ったよ",
+            "voice": "108010_scenario_000_001_029",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 241,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "わ、まだ大きくなってる……すごい……",
+            "voice": "108010_scenario_000_001_030",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 242,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えっ？　息がかかってくすぐったい？\nそんなに顔近づけてたかな？",
+            "voice": "108010_scenario_000_001_031",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 243,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あっ……いま、ピクンって動いたね",
+            "voice": "108010_scenario_000_001_032",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 244,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "な、なにって、おちんちんがだよ……ほら、また……",
+            "voice": "108010_scenario_000_001_033",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 245,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "我慢出来ない？　じゃあ……おちんちん、舐めてもいい？",
+            "voice": "108010_scenario_000_001_034",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 246,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "うん、わかったよ……ちゅるっ……",
+            "voice": "108010_scenario_000_001_035",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 248,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1080100302",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 249,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えへへ、おちんちん、チョコ味だよ……\nれろっ……おいしい……ちゅっ",
+            "voice": "108010_scenario_000_001_036",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 250,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ……れろっ……ちゅぴっ……",
+            "voice": "108010_scenario_000_001_037",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 251,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んちゅっ……お兄ちゃん、気持ちいい……？",
+            "voice": "108010_scenario_000_001_038",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 252,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "そっか、気持ちいいんだ……\nじゃあ、もっと頑張るね……れろっ、ちゅるっ……",
+            "voice": "108010_scenario_000_001_039",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 253,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、おちんちん、熱い……れろれろっ、んはっ……",
+            "voice": "108010_scenario_000_001_040",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 254,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ちゅぴっ……\nひかりの手、チョコでベトベトになっちゃった……れろれろっ……",
+            "voice": "108010_scenario_000_001_041",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 255,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "どこが……気持ちいいのかな……？",
+            "voice": "108010_scenario_000_001_042",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 256,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "下から舐め上げると気持ちいい？\n下から舐めればいいんだね……んふっ……",
+            "voice": "108010_scenario_000_001_043",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 257,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ペニスの根元へ、ベッタリ舌を押し付けてきた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 258,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ……んっ……れろ……",
+            "voice": "108010_scenario_000_001_044",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 259,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んはっ……れろっ……ちゅぴっ……こ、こんな感じかな？",
+            "voice": "108010_scenario_000_001_045",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 260,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "もっと乱暴な感じで？\nう、うん、上手く出来るかな……んふっ……",
+            "voice": "108010_scenario_000_001_046",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 261,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "れろおおおっ……じゅるるっ……んふっ……れろれろっ、ちゅぴっ",
+            "voice": "108010_scenario_000_001_047",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 262,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "れろれろっ、んちゅーっ、れろれろおっ……こ、こう？",
+            "voice": "108010_scenario_000_001_048",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 263,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あっ……おちんちんの先から、えっちなお汁垂れてきてる……",
+            "voice": "108010_scenario_000_001_049",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 264,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "水滴みたいになってる……ちゅっ",
+            "voice": "108010_scenario_000_001_050",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 265,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "我慢汁を吸うように、亀頭へキスをしてきた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 266,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あんっ、そんなに腰引かなくても……",
+            "voice": "108010_scenario_000_001_051",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 267,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "続けるね……れろっ、ちゅぴっ、んふっ……",
+            "voice": "108010_scenario_000_001_052",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 268,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、いま舐め取ったばかりなのに、\nもう垂れてきちゃってる……ちゅるっ",
+            "voice": "108010_scenario_000_001_053",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 269,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んちゅっ、れろっ……気持ちいいんだね……れろれろっ",
+            "voice": "108010_scenario_000_001_054",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 270,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "それに、んはっ、おちんちんもっと硬くなってるよぉ……\nどこまで硬くなるんだろ……れろおっ",
+            "voice": "108010_scenario_000_001_055",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 271,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、れろっ、ちゅぴっ、手も……使った方がいいのかな……？",
+            "voice": "108010_scenario_000_001_056",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 272,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "うん、じゃあ、時々しこしこすればいいんだね……\nわかったよ……んっ、んんっ、れろれろっ",
+            "voice": "108010_scenario_000_001_057",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 273,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んっ、あっ、んんっ、痛くないかな？\nもうちょっと強くても大丈夫？",
+            "voice": "108010_scenario_000_001_058",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 274,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "れろっ、ちゅぴっ、ちゅるっ、んっ、はっ、んんっ、あっんっ……\nおちんちん熱くて……えっちだよぉ……",
+            "voice": "108010_scenario_000_001_059",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 275,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "それに、んっ、あっ、んんっ、さっきよりも我慢汁が\nいっぱい出てるね……んっ、あっ、んんっ",
+            "voice": "108010_scenario_000_001_060",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 276,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "手を使ってるからかな……？　れろっ、ちゅぴっ、んふっ",
+            "voice": "108010_scenario_000_001_061",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 277,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あんっ、えっちなお汁、止まんないよぉ、れろれろっ",
+            "voice": "108010_scenario_000_001_062",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 278,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んはっ……お兄ちゃん……",
+            "voice": "108010_scenario_000_001_063",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 279,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ひかりがおちんちんくわえたほうが、\nお兄ちゃんは気持ちいいよね……？",
+            "voice": "108010_scenario_000_001_064",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 280,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "もう、そんなに頷かなくてもいいってば……じゃあ……",
+            "voice": "108010_scenario_000_001_065",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 281,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "おちんちん、くわえるね……はむっ",
+            "voice": "108010_scenario_000_001_066",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 283,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1080100303",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 284,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んんっ、おっきぃ……んふっ、んんっ……",
+            "voice": "108010_scenario_000_001_067",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 285,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ちょ、ちょっと待って……\nんんっ、舌が、んんっ、動かせないよ、んんっ、んふっ",
+            "voice": "108010_scenario_000_001_068",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 286,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "はぁはぁはぁ……んふっ、んんっ、れろっ……",
+            "voice": "108010_scenario_000_001_069",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 287,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あんっ、おっきすぎだよぉ、んふっ、れろっ、ちゅぴっ",
+            "voice": "108010_scenario_000_001_070",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 288,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んっ……でも、んちゅっ、ひかりがお兄ちゃんのおちんちん\nおっきくしてるって思うと、ずじゅるっ",
+            "voice": "108010_scenario_000_001_071",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 289,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "なんだか、んはっ、えっちな気分に、れろおっ、\nなって来ちゃうね、じゅるっ",
+            "voice": "108010_scenario_000_001_072",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 290,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んっ、あふっ、んんっ、じゅるっ、れろっ、ちゅぴっ",
+            "voice": "108010_scenario_000_001_073",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 291,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "慣れてきたのか、舌の動きがだんだんゆっくり丁寧になってくる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 292,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "気持ちいいところがあったら、じゅるっ、\nどんどん言ってね、んはっ、じゅるっ、ちゅぴっ",
+            "voice": "108010_scenario_000_001_074",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 293,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んっ、んんっ、あふっ、んちゅっ、れろおっ",
+            "voice": "108010_scenario_000_001_075",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 294,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "亀頭を周回するように、ゆっくり舌が動く。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 295,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ここ……？",
+            "voice": "108010_scenario_000_001_076",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 296,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "じゅるるっ、れろっ、ちゅるっ、んふっ、\nおちんちん、気持ちいいってっ、んふっ、跳ねてるよ",
+            "voice": "108010_scenario_000_001_077",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 297,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ずじゅるっ、んはっ、あんっ、チョコの味っ、\nんはっ、だけじゃなくてっ、れろおっ",
+            "voice": "108010_scenario_000_001_078",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 298,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "お兄ちゃんの味がっ、んちゅーっ、\nするっ、れろれろっ、じゅるるるっ",
+            "voice": "108010_scenario_000_001_079",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 299,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、おいしいっ♪",
+            "voice": "108010_scenario_000_001_080",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 300,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "じゅるるるっ、んんっ、んっ、あっ、んんっ、んちゅっ",
+            "voice": "108010_scenario_000_001_081",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 301,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "頭を振るようにして、唇をすぼめて強く吸い付いてくる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 302,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "じゅぴっ、れろっ、んちゅっ、れろれろっ、\nんっ、あっ、んっ、んはっ",
+            "voice": "108010_scenario_000_001_082",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 303,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "どこまでっ、んんっ、硬くなっちゃうのぉっ、\nじゅるっ、お兄ちゃんのおちんちんっ、れろれろっ",
+            "voice": "108010_scenario_000_001_083",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 304,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "我慢汁もっ、んはっ、止まらないよぉっ、れろれろっ",
+            "voice": "108010_scenario_000_001_084",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 305,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "口からっ、じゅるっ、溢れちゃうっ、れろれろっ、じゅるるるるっ",
+            "voice": "108010_scenario_000_001_085",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 306,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えっ？　そろそろイキそうなの？",
+            "voice": "108010_scenario_000_001_086",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 307,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "わかったよ、じゃあ、最後まで気持ち良くしてあげるね、\nんはっ、じゅるるっ、れろおっ、ちゅぴっ",
+            "voice": "108010_scenario_000_001_087",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 308,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "れろおっ、んんっ、おちんちんっ、んふっ、\nお腹にくっついちゃいそうなくらい反って、えっちだねっ",
+            "voice": "108010_scenario_000_001_088",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 309,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "でもっ、んちゅっ、えっちなおちんちんっ、好きっ、\nんんっ、れろおっ、ちゅぴっ",
+            "voice": "108010_scenario_000_001_089",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 310,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "お兄ちゃんのっ、んふっ、えっちなおちんちんがっ、好きっ、\nれろれろっ、じゅるるっ",
+            "voice": "108010_scenario_000_001_090",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 311,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "徐々に舌遣いが乱暴になり、さらに快感を掻き立ててくる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 312,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "不思議だよ、んちゅっ、れろれろっ、じゅるっ",
+            "voice": "108010_scenario_000_001_091",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 313,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ひかり、おちんちん舐めてるだけなのにっ、\nんはっ、どんどん気持ち良くなっちゃってるっ、あふっ",
+            "voice": "108010_scenario_000_001_092",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 314,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あんっ、おまんこなんてっ、じゅるっ、\n触ってないってばぁっ、んちゅっ、れろおっ",
+            "voice": "108010_scenario_000_001_093",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 315,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "はぁはぁはぁ……\nもう、お兄ちゃんの意地悪……じゅるるるるっ！！",
+            "voice": "108010_scenario_000_001_094",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 316,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "からかったことに対する反撃と言わんばかりに、\n喉奥まで吸引してきた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 317,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ずじゅるっ、れろれろっ、じゅるっ、じゅぷっ、じゅぴっ！",
+            "voice": "108010_scenario_000_001_095",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 318,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "もうっ、んふっ、お兄ちゃんがっ、いっぱいせーし出すまでっ、\n許さないんだからっ、じゅるうっ",
+            "voice": "108010_scenario_000_001_096",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 319,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "れろおっ、じゅぴっ、ちゅるっ、れろれろっ、ずじゅるるるっ！",
+            "voice": "108010_scenario_000_001_097",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 320,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、イキそう？　お兄ちゃん、\nせつなそうな顔になってるよっ、じゅるっ、ずじゅっ、じゅぴっ",
+            "voice": "108010_scenario_000_001_098",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 321,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ひかりのお口にっ、んふっ、いっぱい出したらっ、\nんちゅっ、許してあげるっ、じゅるっ、れろれろっ",
+            "voice": "108010_scenario_000_001_099",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 322,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "じゅぴっ、んちゅっ、れろっ、ずじゅるっ、んはっ、\nじゅるるるるっ",
+            "voice": "108010_scenario_000_001_100",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 323,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "鈍い痛みのような快感が、一気に加速して射精を促してきた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 324,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んはっ、出そう？　うんっ、いいよっ、\nいっぱいっ、じゅるるるっ、気持ち良くっ、ずじゅうるっ",
+            "voice": "108010_scenario_000_001_101",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 325,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "気持ち良くなってっ、んちゅっ、\nお兄ちゃんっ、れろっ、じゅるっ、じゅぴっ、じゅぶっ",
+            "voice": "108010_scenario_000_001_102",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 326,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ひかりもっ、んんっ、気持ち良くなってるからぁっ、\nじゅぴっ、じゅるっ、ずじゅっ",
+            "voice": "108010_scenario_000_001_103",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 327,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あっ、んんっ、おちんちんっ、びくんってっ、なったっ、\nイキそうなんだねっ、あっ、じゅるるっ",
+            "voice": "108010_scenario_000_001_104",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 328,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "うんっ、ひかりもっ、じゅぴっ、れろっ、\nじゅぶっ、じゅるるるるっ",
+            "voice": "108010_scenario_000_001_105",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 329,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あっ、もうっ、んっ、じゅるっ、れろっ、\nじゅぴっ、じゅぶっ、じゅるるるるっ",
+            "voice": "108010_scenario_000_001_106",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 330,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "限界が訪れ、ペニスを突き出すように腰を上げた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 331,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、れろっ、お兄ちゃん、イッて、\nんはっ……じゅるるるるるるるるるるるるるるうっ！！",
+            "voice": "108010_scenario_000_001_107",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 335,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.2,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 336,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102722
+            }
+        ]
+    },
+    {
+        "command_id": 338,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.4,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 340,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 341,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": "1080100304",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 342,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.35,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 344,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.75,
+        "resorce_id": null
+    },
+    {
+        "command_id": 345,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んぐうううううううっ！？",
+            "voice": "108010_scenario_000_001_108",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 346,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "喉奥に吸い込まれたと錯覚するくらい、\nペニスを強く吸い込んできた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 347,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ……はぁっ……んんっ……\nせーし……しゅごい量……んぐ……",
+            "voice": "108010_scenario_000_001_109",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 348,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "口の中、んはっ、入りきららいよお……",
+            "voice": "108010_scenario_000_001_110",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 350,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ……ごくん。飲んじゃった",
+            "voice": "108010_scenario_000_001_111",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 351,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "こんなにいっぱい出るなんて、気持ち良かったんだ……？",
+            "voice": "108010_scenario_000_001_112",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 352,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えへへへ、気持ちいいって言ってくれるなら、悪い気はしないよね",
+            "voice": "108010_scenario_000_001_113",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 353,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "じゃあ、おちんちんにまだチョコ残ってるから……",
+            "voice": "108010_scenario_000_001_114",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 354,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ひかりメイドがお掃除してあげるね……れろれろっ……",
+            "voice": "108010_scenario_000_001_115",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 356,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1080100305",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 357,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んちゅっ……おいし♪",
+            "voice": "108010_scenario_000_001_116",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 358,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "でも、れろっ、時々苦いかも、れろっ、ちゅるっ",
+            "voice": "108010_scenario_000_001_117",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 359,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ちゅっ、ちゅっ、んふっ、れろっ、んはっ",
+            "voice": "108010_scenario_000_001_118",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 360,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ……いっぱい舐めたから、\nチョコなくなってきたね……ちゅるっ",
+            "voice": "108010_scenario_000_001_119",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 361,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "れろっ、ちゅぴっ、んふっ、もっときれいに……\n舐めるから……れろっ、んふっ、ちゅっちゅっ",
+            "voice": "108010_scenario_000_001_120",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 362,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んちゅっ……あれ……おちんちん、また硬くなって来たね……",
+            "voice": "108010_scenario_000_001_121",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 363,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "もう一回、出ちゃうのかな……？\nちゅるっ、れろっ、んふっ、ちゅっ",
+            "voice": "108010_scenario_000_001_122",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 364,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "うん、何回出したっていいよ……\nひかりは大丈夫だから、れろっ、じゅるっ、んはっ",
+            "voice": "108010_scenario_000_001_123",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 365,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んんっ……もう、さっきと同じくらい硬いね……\nれろっ、ちゅるっ、じゅるるっ",
+            "voice": "108010_scenario_000_001_124",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 366,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "裏筋を舐め上げられ、身体中に快感の震えが走った。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 367,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、あっ、これ気持ちいいんだ……\nれろれろっ、ちゅぴっ、んふっ",
+            "voice": "108010_scenario_000_001_125",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 368,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ちゅっちゅっ、おちんちん、また熱くなってきてる、\nんふっ、あふっ",
+            "voice": "108010_scenario_000_001_126",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 369,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えっちだよぉ……ちゅるっ、れろっ、ちゅぴっ",
+            "voice": "108010_scenario_000_001_127",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 370,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "うん？　もう出そうなの……？　いいよ、いっぱい出して……",
+            "voice": "108010_scenario_000_001_128",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 371,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んふっ、れろっ、ちゅるっ、お兄ちゃんの顔、\n本当に気持ちよさそう……ちゅぴっ、じゅるっ",
+            "voice": "108010_scenario_000_001_129",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 372,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "はぁはぁ、ガチガチのおちんちん、ちゅぴっ、\nおいしいよぉ、ちゅるっ、じゅるっ、んはっ",
+            "voice": "108010_scenario_000_001_130",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 373,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "亀頭の方も、手でしこしこするね、んっ、れろっ、んふっ",
+            "voice": "108010_scenario_000_001_131",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 374,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ペニスを握った細い指が何度もカリ首を往復し、\n快感が抑えきれなくなった。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 375,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "んっ、じゅるっ、れろっ、んはっ、ちゅぴっ、うん？\nえっ？　もう我慢出来ない？",
+            "voice": "108010_scenario_000_001_132",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 376,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ちゅぴっ、れろっ、じゃあ、もうちょっと綺麗にして……ちゅるっ",
+            "voice": "108010_scenario_000_001_133",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 377,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えっ？　んふっ、れろっ、じゅるっ、もう無理？\nちゅぴっ……きゃああああっ！？",
+            "voice": "108010_scenario_000_001_134",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 381,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.2,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 382,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102721
+            }
+        ]
+    },
+    {
+        "command_id": 384,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.4,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 386,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 387,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": "1080100306",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 388,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.35,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 390,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.75,
+        "resorce_id": null
+    },
+    {
+        "command_id": 391,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あふ……熱い……んふっ……",
+            "voice": "108010_scenario_000_001_135",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 392,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "おちんちんから……せーしいっぱい出たよぉ……",
+            "voice": "108010_scenario_000_001_136",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 393,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えっちな匂い……お兄ちゃんの匂いがするよ……んはっ",
+            "voice": "108010_scenario_000_001_137",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 394,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "一回出したばっかりなのに、またこんなに出るなんて……\nしょうがないお兄ちゃんだよ……",
+            "voice": "108010_scenario_000_001_138",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 395,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "でも……こんなにいっぱい出すくらい、\n気持ち良かったんだよね……？",
+            "voice": "108010_scenario_000_001_139",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 396,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あー、お兄ちゃん、恥ずかしがってる……えへへへ",
+            "voice": "108010_scenario_000_001_140",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 397,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "照れ隠しの意味も含めて、ひかりの髪をそっと撫でた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 398,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "あっ……えへへ、くすぐったい",
+            "voice": "108010_scenario_000_001_141",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 399,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "お兄ちゃんが触ってくれると、ひかり、すごく安心するんだ……",
+            "voice": "108010_scenario_000_001_142",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 400,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "うれしい……",
+            "voice": "108010_scenario_000_001_143",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 401,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "……でも、せっかく綺麗にしたのに、\nまたおちんちん汚れちゃったね",
+            "voice": "108010_scenario_000_001_144",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 402,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "どうすればいい……？",
+            "voice": "108010_scenario_000_001_145",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 403,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えへへ、お兄ちゃんがどうして欲しいかくらい、わかってるってば",
+            "voice": "108010_scenario_000_001_146",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 404,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "でも、またおっきくなったら困るなぁ……",
+            "voice": "108010_scenario_000_001_147",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 405,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "今度は大丈夫？　本当かな？　えへへへ",
+            "voice": "108010_scenario_000_001_148",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 406,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "じゃあ……こほん！",
+            "voice": "108010_scenario_000_001_149",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 407,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "ひかりメイドが、責任を持って最後まで綺麗にさせて頂きますので",
+            "voice": "108010_scenario_000_001_150",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 408,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "おちんちんを出したまま、お待ちください……ご主人様",
+            "voice": "108010_scenario_000_001_151",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 409,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 108010,
+        "text_option": {
+            "character_name": "アリエス",
+            "character_text": "えへへへ♪",
+            "voice": "108010_scenario_000_001_152",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 413,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100106
+            },
+            {
+                "command_id": 414,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 416,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

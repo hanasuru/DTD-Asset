@@ -1,0 +1,4363 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100148,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "エッチ・その１",
+            "sub_text": "アルテア"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100106
+    },
+    {
+        "command_id": 12,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "お邪魔します……",
+            "voice": "109100_scenario_000_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 15,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 17,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100154,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 18,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 20,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 22,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 101342
+            },
+            {
+                "command_id": 23,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 0.75,
+                "resorce_id": null
+            }
+        ]
+    },
+    {
+        "command_id": 25,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 27,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 28,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 30,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 32,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 33,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "や、やっぱり緊張するわね……",
+                    "voice": "109100_scenario_000_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 36,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 37,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 39,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 40,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 42,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 43,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "どうしてって、私のマスターとはいえ、男の部屋なのよ？\n緊張するに決まってるじゃない",
+                    "voice": "109100_scenario_000_001_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 46,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 47,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 49,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 50,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 52,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 53,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "それに、この後することを考えると……",
+                    "voice": "109100_scenario_000_001_004",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 56,
+                "command": "Shake",
+                "command_option": 0.2,
+                "command_time": 0.2,
+                "resorce_id": 109100
+            },
+            {
+                "command_id": 57,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 58,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "べ、別にいやらしい想像なんかしてないわよ！",
+                    "voice": "109100_scenario_000_001_005",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 61,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 62,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 64,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 65,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 67,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 68,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "ジブリールは、アモーレを貯めるためにエッチをする……\nそれくらい知ってる",
+                    "voice": "109100_scenario_000_001_006",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 71,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 72,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 74,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 75,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 76,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.05,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 77,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 78,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 79,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 80,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 82,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 83,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "で、でも、なんていうか、その、雰囲気とか大事だと思うし",
+                    "voice": "109100_scenario_000_001_007",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 87,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 88,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "私、色々と初めてだし……",
+                    "voice": "109100_scenario_000_001_008",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 91,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 92,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 94,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 96,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 97,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "聞こえない？　う、うっさいわね！",
+                    "voice": "109100_scenario_000_001_009",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 100,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 101,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 103,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 104,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 106,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 107,
+                "command": "Text",
+                "command_option": "Next",
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "も、もう、全然落ち着かない……",
+                    "voice": "109100_scenario_000_001_010",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 110,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 111,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 113,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 115,
+                "command": "Shake",
+                "command_option": 0.2,
+                "command_time": 0.2,
+                "resorce_id": null
+            },
+            {
+                "command_id": 116,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100881
+            },
+            {
+                "command_id": 117,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": 1.12
+                }
+            },
+            {
+                "command_id": 118,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.1,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.15
+                }
+            },
+            {
+                "command_id": 119,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "あっ",
+                    "voice": "109100_scenario_000_001_010b",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 121,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 122,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "身体を近づけ、アルテアの耳元で囁いた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 124,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 125,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "私のしたいようにするから、なんでも言えって……",
+                    "voice": "109100_scenario_000_001_011",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 128,
+                "command": "Shake",
+                "command_option": 0.2,
+                "command_time": 0.3,
+                "resorce_id": 109100
+            },
+            {
+                "command_id": 129,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 130,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "そ、それって、エッチのリクエストじゃないの！？",
+                    "voice": "109100_scenario_000_001_012",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 133,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 134,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -33,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 136,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -30,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 137,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 139,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 140,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "そんなこと言えるわけないでしょ！　バカっ！",
+                    "voice": "109100_scenario_000_001_013",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 143,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 144,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 146,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 147,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 149,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 150,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "はぁ……こんなんじゃ、雰囲気もなにもないわね",
+                    "voice": "109100_scenario_000_001_014",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 153,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 154,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 156,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 158,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 159,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "……私が悪いの？",
+                    "voice": "109100_scenario_000_001_015",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 162,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 163,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 165,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 166,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.1,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 168,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 169,
+                "command": "Text",
+                "command_option": "Next",
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "そうよね、私は悪くないわよ。\nそういうムードを作れないマスターが……",
+                    "voice": "109100_scenario_000_001_016",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 172,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 173,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 174,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.1,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.154
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 177,
+                "command": "Shake",
+                "command_option": 0.2,
+                "command_time": 0.3,
+                "resorce_id": null
+            },
+            {
+                "command_id": 178,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.1,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.15
+                }
+            },
+            {
+                "command_id": 179,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.1,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 180,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "んんっ！？",
+                    "voice": "109100_scenario_000_001_016b",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 182,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "何の前触れもなく、いきなりアルテアと唇を重ねた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 184,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 185,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 186,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.15,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.154
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 189,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.15,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.15
+                }
+            },
+            {
+                "command_id": 190,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 191,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "んくっ！！　んっ！　あっ……んふぅっ……",
+                    "voice": "109100_scenario_000_001_017",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 194,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 195,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 196,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.154
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 199,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.15
+                }
+            },
+            {
+                "command_id": 200,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 202,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.25,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 204,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.3,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.154
+                }
+            },
+            {
+                "command_id": 205,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -43,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 208,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.3,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.15
+                }
+            },
+            {
+                "command_id": 209,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 210,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "んちゅっ……んんっ……ぷはっ……",
+                    "voice": "109100_scenario_000_001_018",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 213,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 214,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 2,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 216,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -2,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 218,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 219,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "も、もう……\nキスするならするって、言ってくれればいいじゃない……",
+                    "voice": "109100_scenario_000_001_019",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 222,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 223,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "いきなりだったから、\nこっちも急にスイッチが入っちゃったわよ……",
+                    "voice": "109100_scenario_000_001_020",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 226,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 227,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 229,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 230,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 109100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 232,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 109100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 233,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 109100,
+                "text_option": {
+                    "character_name": "アルテア",
+                    "character_text": "マスターのしたいように……して",
+                    "voice": "109100_scenario_000_001_021",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 236,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 238,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100160,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 239,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 240,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 242,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 244,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100861
+            },
+            {
+                "command_id": 245,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 0.5,
+                "resorce_id": null
+            }
+        ]
+    },
+    {
+        "command_id": 247,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command_id": 248,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "えっ？　ほ、本当に？　こんな体勢で？",
+            "voice": "109100_scenario_000_001_022",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 249,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "し、したいなら、しょうがないけど……",
+            "voice": "109100_scenario_000_001_023",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 252,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 253,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": "1091000301",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 255,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "お互いの顔が下半身にあるって、なんだか落ち着かないわね……",
+            "voice": "109100_scenario_000_001_024",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 256,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "そ、それに、さっきからビクビク動いてるんだけど……",
+            "voice": "109100_scenario_000_001_025",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 257,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "な、なにがって、わかるでしょ？　マスターのあれだってば……",
+            "voice": "109100_scenario_000_001_026",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 258,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "だから、あれはあれよ",
+            "voice": "109100_scenario_000_001_027",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 259,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "もう、わざと言わせようとして……",
+            "voice": "109100_scenario_000_001_028",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 260,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "マスターの……おちんちん……",
+            "voice": "109100_scenario_000_001_029",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 261,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "さっきから、私の顔の近くで跳ねてるんだけど……",
+            "voice": "109100_scenario_000_001_030",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 262,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "えっ？　私のおまんこも濡れてる？\nば、バカ！　変なこと言わないでよ！",
+            "voice": "109100_scenario_000_001_031",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 263,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あんっ、ちょっ、鼻息かかってるんだけど！",
+            "voice": "109100_scenario_000_001_032",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 264,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "も、もう！　いちいち観察しないで！",
+            "voice": "109100_scenario_000_001_033",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 265,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ぴ、ピンクで綺麗？　だ、だから、いちいち言わなくていいの！",
+            "voice": "109100_scenario_000_001_034",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 266,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ま、マスターの……お、おちんちんだって……大きいわよ……",
+            "voice": "109100_scenario_000_001_035",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 267,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "べ、別に私が大きいの好きとか、そういう意味じゃないから！",
+            "voice": "109100_scenario_000_001_036",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 268,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "こういう状況で、なにをどう言えばいいのかわからないのよ……",
+            "voice": "109100_scenario_000_001_037",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 269,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "見たままを言えばいいの？\nさ、先の所が大きく膨らんで、キノコみたいな感じだけど……",
+            "voice": "109100_scenario_000_001_038",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 270,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "それに、なにか液が出て……我慢汁？　我慢汁って言うの、これ？",
+            "voice": "109100_scenario_000_001_039",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 271,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "が、我慢汁がいっぱい出て、私の手に垂れてきてる……",
+            "voice": "109100_scenario_000_001_040",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 272,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "わ、私のも垂れてきてる……？",
+            "voice": "109100_scenario_000_001_041",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 273,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んっ、もう、マン汁って言わないでよ……",
+            "voice": "109100_scenario_000_001_042",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 274,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "自分だって、おちんちんの先から\nヨダレみたいにだらだら我慢汁垂らしてるくせに……",
+            "voice": "109100_scenario_000_001_043",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 275,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "だ、だから、マン汁って言わないで！",
+            "voice": "109100_scenario_000_001_044",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 276,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "もうっ！　少し黙って！　はむっ！",
+            "voice": "109100_scenario_000_001_045",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 278,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1091000302",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 279,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んっ……あちゅい……んふっ",
+            "voice": "109100_scenario_000_001_046",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 280,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "唇で亀頭を覆うようにして、舌先を絡め始めた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 281,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "はぁっ……おちんちん、すごく熱いじゃない……\n興奮してる……ってことよね？",
+            "voice": "109100_scenario_000_001_047",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 282,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "えっ？　こうやって舐められると、気持ちいいんだ……わかった",
+            "voice": "109100_scenario_000_001_048",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 283,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "れろっ、ちゅぴっ、んふっ",
+            "voice": "109100_scenario_000_001_049",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 284,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ちゅるっ、んはっ、れろっ、ちゅぴっ……こんな感じ？",
+            "voice": "109100_scenario_000_001_050",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 285,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "そ、そう……じゃあ、続けてみる……",
+            "voice": "109100_scenario_000_001_051",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 286,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んはっ、ちゅぴっ、れろっ、どんどん硬くなってっ、んふっ",
+            "voice": "109100_scenario_000_001_052",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 287,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "我慢汁も、んくっ、たくさん出てるみたい……ちゅぴっ",
+            "voice": "109100_scenario_000_001_053",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 288,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "はぁはぁ……\nな、なんだか、私の身体も熱くなってきたみたい……れろっ",
+            "voice": "109100_scenario_000_001_054",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 289,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ああんっ、きゅ、急に広げないでよ",
+            "voice": "109100_scenario_000_001_055",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 290,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ど、どこって、だから、お、おまんこ……",
+            "voice": "109100_scenario_000_001_056",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 291,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "お尻の穴も丸見えだ、って……み、見ないでよ……",
+            "voice": "109100_scenario_000_001_057",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 292,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "も、もう、本当に恥ずかしいんだから……",
+            "voice": "109100_scenario_000_001_058",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 293,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "私の身体、汚れてない……？",
+            "voice": "109100_scenario_000_001_059",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 294,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "き、汚くないならいいけど……やっぱり、気になるわよ",
+            "voice": "109100_scenario_000_001_060",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 295,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "私だって、マスターの……その……\nおちんちんじゃなかったら、触ったり出来ないもの……",
+            "voice": "109100_scenario_000_001_061",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 296,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あっ、あんっ！",
+            "voice": "109100_scenario_000_001_062",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 297,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ゆ、指が、んんっ、私のっ、んあっ、触って……る……あああんっ",
+            "voice": "109100_scenario_000_001_063",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 298,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んんっ！　そこ、ダメ……あっ……",
+            "voice": "109100_scenario_000_001_064",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 299,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "はぁっ、んんっ、ダメって言ってるで……しょぉ……ふぁあっ",
+            "voice": "109100_scenario_000_001_065",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 300,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "触らない……で……んあっ、んくぅ",
+            "voice": "109100_scenario_000_001_066",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 301,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ど、どこって、んんっ、また、あんっ、\nいやらしい言葉っ、んくっ、言わせるつもりぃ、ああっ",
+            "voice": "109100_scenario_000_001_067",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 302,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "言ったら止めるって、んんっ、怒るわよぉ……",
+            "voice": "109100_scenario_000_001_068",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 303,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あっ、んんっ、あくっ",
+            "voice": "109100_scenario_000_001_069",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 304,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "い、言うっ、言うからっ、触っちゃっ、ダメっ、ああんっ",
+            "voice": "109100_scenario_000_001_070",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 305,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "クリっ、クリトリスっ、触んないでっ、ふぁあんっ、んんっ！",
+            "voice": "109100_scenario_000_001_071",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 306,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ああっ、いっ、言ったわよっ、もうっ、\n触らないでぇっ、んあああっ！",
+            "voice": "109100_scenario_000_001_072",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 307,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んあっ、つ、摘まんでるっ、クリトリスっ、\nんくっ、ふぁっ、ああんっ",
+            "voice": "109100_scenario_000_001_073",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 308,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ああんっ、触るのっ、やめないじゃないっ、んんっ、あくっ",
+            "voice": "109100_scenario_000_001_074",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 309,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んくぅっ、あんっ、んあっ、も、もうっ！",
+            "voice": "109100_scenario_000_001_075",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 310,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "マスターのおちんちんだってっ、こうしてやるんだからっ！",
+            "voice": "109100_scenario_000_001_076",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 311,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ペニスの根元を強く握ったかと思うと、\n同時に鈴口を舌で突いてきた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 312,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んっ、れろっ、ちゅるっ",
+            "voice": "109100_scenario_000_001_077",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 313,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んはっ……今やったお返しに、おちんちん、触りまくるからね",
+            "voice": "109100_scenario_000_001_078",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 314,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "や、やだ、私、なに宣言してるんだろう……",
+            "voice": "109100_scenario_000_001_079",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 315,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "と、とにかく、こうやっておちんちん触られると\n気持ちいいってことくらい、私だって知ってるんだから……",
+            "voice": "109100_scenario_000_001_080",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 316,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "……えっ？　ただ握ってるだけじゃ、そんなに気持ち良くないの？",
+            "voice": "109100_scenario_000_001_081",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 317,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "じゃ、じゃあ、んちゅっ、あふっ、れろっ、んんっ、ちゅるっ",
+            "voice": "109100_scenario_000_001_082",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 318,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "こ、これならいいんでしょ？",
+            "voice": "109100_scenario_000_001_083",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 319,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ちゅぴっ、れろっ、んはっ、んちゅっ",
+            "voice": "109100_scenario_000_001_084",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 320,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んふっ……えっ、舐めながらシコシコされると気持ちいい？",
+            "voice": "109100_scenario_000_001_085",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 321,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "も、もう、注文が多いわね……\nわかったわよ……れろっ、んっ、あっ",
+            "voice": "109100_scenario_000_001_086",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 322,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ちゅぴっ、んふっ、こ、こんな感じ？",
+            "voice": "109100_scenario_000_001_087",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 323,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "れろっ、んんっ、ちゅるっ、はっ、んんっ、んくっ",
+            "voice": "109100_scenario_000_001_088",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 324,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "はぁはぁ、おちんちん、どんどん硬くなってる……\nさっきまでが柔らかく思えるくらい……",
+            "voice": "109100_scenario_000_001_089",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 325,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んちゅっ、はぁっ、ちゅぴっ、れろっ、んっ、あっ、んんっ",
+            "voice": "109100_scenario_000_001_090",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 326,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んふっ、我慢汁っ、んちゅっ、\nさっきからっ、すごくいっぱい出てるんだけど……",
+            "voice": "109100_scenario_000_001_091",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 327,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "舐めても舐めても、溢れてくる……なんかいやらしい……",
+            "voice": "109100_scenario_000_001_092",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 328,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んちゅっ、あんっ、れろっ、ちゅるっ",
+            "voice": "109100_scenario_000_001_093",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 329,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "はぁはぁはぁ……えっ？　い、イキそう……なの？",
+            "voice": "109100_scenario_000_001_094",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 330,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "う、うん、このまま続けるから……ちゅぴっ、れろっ、んはっ",
+            "voice": "109100_scenario_000_001_095",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 331,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んっ、あっ、んんっ、れろっ、ちゅるっ、んくっ",
+            "voice": "109100_scenario_000_001_096",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 332,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "舌と手でバランス良く刺激を送り続けられ、\nもう我慢の限界だった。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 333,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んはっ、う、うん、\n気持ち良かったら、いつでもいいから……ちゅぴっ",
+            "voice": "109100_scenario_000_001_097",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 334,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "れろっ、んはっ、ちゅるっ、ちゅぴっ、んあっ",
+            "voice": "109100_scenario_000_001_098",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 335,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "私もっ、んくっ、気持ちいいっ、みたいっ、だからっ、ああんっ",
+            "voice": "109100_scenario_000_001_099",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 336,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あっ、んんっ、んはっ、ちゅぴっ、れろっ",
+            "voice": "109100_scenario_000_001_100",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 337,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "もう出るっ？　うんっ、いいっ、出していいっ、からっ……",
+            "voice": "109100_scenario_000_001_101",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 338,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "私もっ、気持ちよくっ、あっ、んんっ、ふぁっ……\nあああああああああああああああんっ！！",
+            "voice": "109100_scenario_000_001_102",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 342,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.2,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 343,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102722
+            }
+        ]
+    },
+    {
+        "command_id": 345,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.4,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 347,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 348,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": "1091000303",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 349,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.35,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 351,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.75,
+        "resorce_id": null
+    },
+    {
+        "command_id": 352,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "……んはっ",
+            "voice": "109100_scenario_000_001_103",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 353,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "はぁはぁはぁ……いっぱい……んふっ",
+            "voice": "109100_scenario_000_001_104",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 354,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "おちんちんから……出た……",
+            "voice": "109100_scenario_000_001_105",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 355,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "これ……精液……よね？",
+            "voice": "109100_scenario_000_001_106",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 356,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ザーメンって言うの？　えっ、意味は同じ？　ま、紛らわしいわね",
+            "voice": "109100_scenario_000_001_107",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 357,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "どっちでもいいけど……すごい量……",
+            "voice": "109100_scenario_000_001_108",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 358,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "目がまともに開けられないくらい……んっ",
+            "voice": "109100_scenario_000_001_109",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 359,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "それに、匂いもすごい……\nなんだか、ちょっと生臭いような、むせるような……",
+            "voice": "109100_scenario_000_001_110",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 360,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "……でも、想像してたよりも嫌じゃないわね",
+            "voice": "109100_scenario_000_001_111",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 361,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "マスターのだから……？",
+            "voice": "109100_scenario_000_001_112",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 362,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "……あっ",
+            "voice": "109100_scenario_000_001_113",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 363,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "お、おちんちん、また大きくなり始めたんだけど……",
+            "voice": "109100_scenario_000_001_114",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 364,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "も、もう、物欲しそうに動かさないでよ……\nえっ、自分の意志じゃない？",
+            "voice": "109100_scenario_000_001_115",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 365,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "まったく、しつけのなってないおちんちんなんだから……はむっ",
+            "voice": "109100_scenario_000_001_116",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 367,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1091000304",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 368,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んちゅっ、あふっ、ふふふっ、なにビックリしてるのよ？",
+            "voice": "109100_scenario_000_001_117",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 369,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "こうして欲しかったんでしょ……じゅるっ",
+            "voice": "109100_scenario_000_001_118",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 370,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "口をすぼめ、頭を上下させながら亀頭をしゃぶり始めた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 371,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んふっ、れろっ、じゅるっ",
+            "voice": "109100_scenario_000_001_119",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 372,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んっ、すごい……どんどん硬くなる……れろっ",
+            "voice": "109100_scenario_000_001_120",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 373,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "じゅるっ、んふっ、あふっ、ちゅるっ、ちゅぴっ",
+            "voice": "109100_scenario_000_001_121",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 374,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "さっきより大きくなってない？　気のせい？\nじゅるっ、んちゅっ、んはっ……",
+            "voice": "109100_scenario_000_001_122",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 375,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "れろおっ……んっ……マスター……",
+            "voice": "109100_scenario_000_001_123",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 376,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "わ、私のだって……触ってもいい……けど",
+            "voice": "109100_scenario_000_001_124",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 377,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "だ、だって、私だけ触ったり舐めたりするなんて不公平じゃない",
+            "voice": "109100_scenario_000_001_125",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 378,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "……私のおまんこ、触ってください",
+            "voice": "109100_scenario_000_001_126",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 379,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "こ、こう言えばいいんでしょ？\nこれで満足な……ひゃあああんっ！！",
+            "voice": "109100_scenario_000_001_127",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 380,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "い、いきなりっ、クリトリスっ、なめてっ、あああんっ！",
+            "voice": "109100_scenario_000_001_128",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 381,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んんっ、身体の力がっ、んあっ、抜けてっ、ふぁあっ",
+            "voice": "109100_scenario_000_001_129",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 382,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ああんっ！　音たてて吸わないでぇ！",
+            "voice": "109100_scenario_000_001_130",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 383,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んはっ！　ああっ、んんっ！",
+            "voice": "109100_scenario_000_001_131",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 384,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "わ、私だってっ、やり返すんだからっ！　ずじゅるるるうっ！",
+            "voice": "109100_scenario_000_001_132",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 385,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アルテアは喉奥までペニスをくわえ込むと、\nねっとり舌を絡みつけてきた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 386,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んふっ、じゅるっ、れろっ、んちゅっ",
+            "voice": "109100_scenario_000_001_133",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 387,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "おひんひんっ、太いっ、んふっ",
+            "voice": "109100_scenario_000_001_134",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 388,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "れろおっ、じゅるっ、ちゅぴっ、んんっ……ああっ！",
+            "voice": "109100_scenario_000_001_135",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 389,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んんっ！　乱暴に舐めすぎだってばぁっ！",
+            "voice": "109100_scenario_000_001_136",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 390,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "そんなにっ、なめたらっ、お尻もっ、んんっ！",
+            "voice": "109100_scenario_000_001_137",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 391,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ひゃああああんっ！\nお尻っ、舐めちゃダメっ、汚いっ、恥ずかしいっ！",
+            "voice": "109100_scenario_000_001_138",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 392,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あっ、んんっ、ダメってっ、んくっ、言ってるのにぃ！",
+            "voice": "109100_scenario_000_001_139",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 393,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アナルを舐めると、\nアルテアの身体から力が抜けていくのがはっきり分かった。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 394,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ふぁああっ、もうっ、\nおちんちん舐められなくなっちゃうでしょぉ！　あああんっ",
+            "voice": "109100_scenario_000_001_140",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 395,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んあっ、だ、ダメ、ああんっ、ダメだってばぁ……ああんっ",
+            "voice": "109100_scenario_000_001_141",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 396,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ぐったりと身体を預けてきたので、一旦舐めるのを止めた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 397,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ふぁっ……もうっ、お返しする！",
+            "voice": "109100_scenario_000_001_142",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 398,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "じゅるっ、じゅぴっ、んふっ、れろおっ！",
+            "voice": "109100_scenario_000_001_143",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 399,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んはぁっ、じゅぴっ、ずじゅるっ、れろっ、ちゅるうっ！",
+            "voice": "109100_scenario_000_001_144",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 400,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あふっ、ザーメン出したばっかりなのに、\nなんでこんなに硬いのよ……ちゅるっ",
+            "voice": "109100_scenario_000_001_145",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 401,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あんっ！　そこっ……舐めると……んんっ！",
+            "voice": "109100_scenario_000_001_146",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 402,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アナルから膣口へ舌を移動させると、\nアルテアの背中がピンと反り返った。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 403,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あふっ、マスターの舌が、んくっ、おまんこを……あんっ",
+            "voice": "109100_scenario_000_001_147",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 404,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んふっ、びちゃびちゃ音鳴らされると、んくっ、\n恥ずかしいってばぁ……あふっ",
+            "voice": "109100_scenario_000_001_148",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 405,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "私のおまんこが、んくっ、\nすごく濡れてるみたいじゃない、あっ、んあっ",
+            "voice": "109100_scenario_000_001_149",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 406,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んんっ、マスターのおちんちんだって、\nんくっ、すごく濡れてる、からっ、あっ、んはっ",
+            "voice": "109100_scenario_000_001_150",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 407,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "私がっ、舐めとらないとっ、んふっ、\nびちょびちょになっちゃうくらいなんだからっ……れろおおっ",
+            "voice": "109100_scenario_000_001_151",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 408,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "じゅるっ、んんっ、れろっ、んちゅっ、ぷはっ！",
+            "voice": "109100_scenario_000_001_152",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 409,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ああっ、んんっ、だめっ、気持ち良くなってっ、\nんんっ、続けっ、られないっ、あふっ",
+            "voice": "109100_scenario_000_001_153",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 410,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "んんっ、ああっ、れろっ、ちゅぴっ、んんっ、ふぁあっ！",
+            "voice": "109100_scenario_000_001_154",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 411,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ご、ごめんなさいっ、私っ、先にっ、\nもうっ、我慢っ、できっ、ないっ、ああんっ！",
+            "voice": "109100_scenario_000_001_155",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 412,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ペニスを握る手に一層力が入り、射精感がどんどん高まっていく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 413,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あっ、んんっ、おまんこっ、舐められるのっ、\nいいっ、気持ちいいっ！",
+            "voice": "109100_scenario_000_001_156",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 414,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "気持ち良すぎてっ、んあっ、れろおおっ！\nずじゅるるるるるぅっ！",
+            "voice": "109100_scenario_000_001_157",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 415,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "不意に強く吸い込まれ、あっけなく限界を超えた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 416,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あっ、んんっ、いいっ、気持ちいいっ、\nおまんこっ、気持ち良すぎてっ……ああああああああんんっ！！",
+            "voice": "109100_scenario_000_001_158",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 420,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.2,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 421,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102722
+            }
+        ]
+    },
+    {
+        "command_id": 423,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.4,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 425,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 426,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.2,
+                "resorce_id": "1091000305",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 427,
+                "command": "Flash",
+                "command_option": 1,
+                "command_time": 0.35,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 429,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.75,
+        "resorce_id": null
+    },
+    {
+        "command_id": 430,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "はぁはぁはぁ……",
+            "voice": "109100_scenario_000_001_159",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 431,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "顔……熱い……",
+            "voice": "109100_scenario_000_001_160",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 432,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "ザーメン……こんなにいっぱい出て……気持ち良かったの……？",
+            "voice": "109100_scenario_000_001_161",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 433,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あふっ、誤魔化さないで、ちゃんと教えて……",
+            "voice": "109100_scenario_000_001_162",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 434,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "メチャクチャ気持ち良かった……そ、そうなんだ……",
+            "voice": "109100_scenario_000_001_163",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 435,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "そう言われれば、悪い気はしないわね……",
+            "voice": "109100_scenario_000_001_164",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 436,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "わ、私？　私はその……",
+            "voice": "109100_scenario_000_001_165",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 438,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "それは……まあ、気持ち良かったけど……",
+            "voice": "109100_scenario_000_001_166",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 439,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "は、恥ずかしいこと言わせないでよ……もう",
+            "voice": "109100_scenario_000_001_167",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 440,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "あんっ、いじらないで",
+            "voice": "109100_scenario_000_001_168",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 441,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "だ、だから、おまんこいじらないで……はぅんっ……",
+            "voice": "109100_scenario_000_001_169",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 442,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "わ、わかったから。満足するまで付き合ってあげるってば",
+            "voice": "109100_scenario_000_001_170",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 443,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 109100,
+        "text_option": {
+            "character_name": "アルテア",
+            "character_text": "もう、マスターのエッチ……",
+            "voice": "109100_scenario_000_001_171",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 445,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100106
+            },
+            {
+                "command_id": 446,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 448,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

@@ -1,0 +1,2000 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100109
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 6,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "力の暴走ですの！",
+            "sub_text": "第２章　第６話"
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 9,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 0.15,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 10,
+                "command": "Shake",
+                "command_option": 2,
+                "command_time": 0.08,
+                "resorce_id": null
+            },
+            {
+                "command_id": 11,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100292
+            },
+            {
+                "command_id": 12,
+                "command": "Bg",
+                "command_option": "Off",
+                "command_time": 0.08,
+                "resorce_id": 100109
+            },
+            {
+                "command_id": 13,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.08,
+                "resorce_id": 100107
+            }
+        ]
+    },
+    {
+        "command_id": 15,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 0.15,
+        "resorce_id": 1
+    },
+    {
+        "command_id": 16,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 20,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100108
+    },
+    {
+        "command_id": 21,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.5,
+        "resorce_id": 300210,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 22,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.3,
+        "resorce_id": null
+    },
+    {
+        "command_id": 23,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "うっ……く……ぐうっ……！",
+            "voice": "300210_battle_000_hit2_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 24,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "（ベルゼブブの武器から黒い何かがわきあがってる！？）",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 26,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 27,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 29,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 30,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 31,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 32,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200300,
+        "text_option": {
+            "character_name": "ミューズ",
+            "character_text": "ベルゼブブの武器が暴走してるの！？",
+            "voice": "200300_adv_003_026_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 34,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 35,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 37,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 38,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 39,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 40,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200200,
+        "text_option": {
+            "character_name": "レグルス",
+            "character_text": "そのようね……",
+            "voice": "200200_adv_002_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 42,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 43,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 45,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 46,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 47,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 48,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200100,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ベルゼブブさん！　武器を離してください……！",
+            "voice": "200100_adv_003_011_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 50,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 51,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 53,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 54,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 300210,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 55,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 56,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "む、無理……っ……手が離れない……っ",
+            "voice": "300210_adv_003_008_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 58,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 59,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 61,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 63,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 64,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 200500,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": -240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 66,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 67,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200500,
+        "text_option": {
+            "character_name": "ニハル",
+            "character_text": "ベルゼブブちゃん！",
+            "voice": "200500_battle_000_hit1_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 69,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 70,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "だ、だめ……来ないで……！",
+                    "voice": "300210_adv_004_006_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 75,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102391
+            },
+            {
+                "command_id": 76,
+                "command": "Shake",
+                "command_option": 1,
+                "command_time": 0.3,
+                "resorce_id": null
+            },
+            {
+                "command_id": 72,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200500,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": -240,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 77,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200500,
+                "text_option": {
+                    "character_name": "ニハル",
+                    "character_text": "きゃあっ！",
+                    "voice": "200500_battle_000_hit2_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 81,
+                "command": "Se",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": 102391
+            },
+            {
+                "command_id": 82,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 83,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 85,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 86,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 87,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 88,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200100,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "ニハルさん！",
+            "voice": "200100_adv_003_016_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 90,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 91,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 93,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 94,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 300210,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 95,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 96,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "あっあっ……",
+            "voice": "300210_adv_003_008_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 97,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "だ、だから来るなって言ったのに……！",
+            "voice": "300210_battle_000_hit1_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 99,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 100,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 102,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 103,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 104,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 105,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100,
+        "text_option": {
+            "character_name": "ラヴリエル",
+            "character_text": "大変ですの！　ベルゼブブの武器を中心に情報濃度が\nすさまじい勢いで上がっていますの！",
+            "voice": "100_adv_003_006_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 107,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 12,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 108,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100,
+                "text_option": {
+                    "character_name": "ラヴリエル",
+                    "character_text": "このままだと情報のブラックホールが生まれますの！",
+                    "voice": "100_adv_003_014_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 110,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100,
+        "text_option": {
+            "character_name": "ラヴリエル",
+            "character_text": "電脳世界どころか、人間界……それどこか\n天界や魔界までブラックホールに飲み込まれますの！",
+            "voice": "100_adv_003_003_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 111,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "いきなり世界の危機じゃねーか！",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 113,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 114,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 116,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 117,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 300210,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 118,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 119,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "ま、まだ……大丈夫……っ……まだこの程度なら……",
+            "voice": "300210_battle_000_hit1_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 121,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 122,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "武器は私がいなければ……機能を停止するはず……\nだから、私が犠牲になって……",
+                    "voice": "300210_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 125,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 126,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "この世界すべて……死んで欲しかった……\nでも……いざ本当に世界を滅ぼせるってわかったら……",
+                    "voice": "300210_battle_000_attack1_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 129,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 5,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 130,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "私には無理……現実はいつでも私には重すぎる……",
+                    "voice": "300210_battle_000_end1_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 132,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "私の頭の中だけで、世界は滅びて、\n美しい死は実現すれば、それでいい……",
+            "voice": "300210_adv_003_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 134,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 135,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "私は、自殺はできないですけど、これなら事故みたいなもの\nだから……きっと死ねる……から……っ",
+                    "voice": "300210_battle_000_stun1_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 137,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "ちょっと待てよ！　せっかくニハルさんとも会えたんだし、\nそんなすぐに諦めるな！",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 139,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 140,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "へ！？　な、何だ……お前\nいきなり出てきてべらべらと……！",
+                    "voice": "300210_adv_003_005_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 142,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "いきなりだけどもう余裕がないから、挨拶はまた後でな！",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 144,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 145,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "ちょ、ちょっとお……！？？",
+                    "voice": "300210_adv_003_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 147,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "おい！　ラヴ公、まだ間に合うよな！？？",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 149,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 150,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 152,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 153,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 18,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 154,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 155,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100,
+        "text_option": {
+            "character_name": "ラヴリエル",
+            "character_text": "は、はいっ！　暴食の力と『力の器』の分離は進んでますから、\nこのまま戦って勝てば武器の暴走も鎮められますの！",
+            "voice": "100_adv_003_006_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 156,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "よし、勝算ありならやらない選択はない。みんな頼む！！",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 158,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 159,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 161,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 162,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200100,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 163,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 164,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200100,
+        "text_option": {
+            "character_name": "アルナイル",
+            "character_text": "はい！　もちろんです！",
+            "voice": "200100_battle_000_attack1_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 166,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 167,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 169,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 170,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200300,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 171,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 172,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200300,
+        "text_option": {
+            "character_name": "ミューズ",
+            "character_text": "ったく……こんなところでいきなり死なれたら、\n正直、寝覚めが悪いでしょ",
+            "voice": "200300_adv_003_015_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 174,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 175,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 177,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 178,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200200,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 179,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 180,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200200,
+        "text_option": {
+            "character_name": "レグルス",
+            "character_text": "そうね……君の頼みなら聞いてあげなくもないわ",
+            "voice": "200200_adv_002_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 182,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 183,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 185,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 186,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200500,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 9,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 187,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 188,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200500,
+        "text_option": {
+            "character_name": "ニハル",
+            "character_text": "ベルゼブブちゃん！　助けるからねっ！",
+            "voice": "200500_battle_000_support2_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 190,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200500,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 191,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200500,
+                "text_option": {
+                    "character_name": "ニハル",
+                    "character_text": "だからベルゼブブちゃんも諦めないで！",
+                    "voice": "200500_battle_000_support1_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 194,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 195,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 197,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 198,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 300210,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 5,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 199,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 200,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "う、う……ううっ……！",
+            "voice": "300210_battle_000_hit1_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 202,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 203,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 205,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 206,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 200500,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 207,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 208,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 200500,
+        "text_option": {
+            "character_name": "ニハル",
+            "character_text": "だってこれからベルゼブブちゃんは、いっぱいお出かけをして、\n可愛いお洋服を買って、水着も買って、プールにいって……",
+            "voice": "200500_adv_003_005_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 210,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200500,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 211,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200500,
+                "text_option": {
+                    "character_name": "ニハル",
+                    "character_text": "花火も見て、映画も見て、ＢＢＱもして、お化粧もして、\nアイスクリームも食べて、楽しくすごすんだから！",
+                    "voice": "200500_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 214,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 200500,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 215,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 200500,
+                "text_option": {
+                    "character_name": "ニハル",
+                    "character_text": "そうでしょ？　ね？",
+                    "voice": "200500_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 219,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 220,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 222,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 223,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.1,
+        "resorce_id": 300210,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 224,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 225,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "なにそれ……",
+            "voice": "300210_adv_003_005_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 226,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 300210,
+        "text_option": {
+            "character_name": "ベルゼブブ",
+            "character_text": "リア充ほんとついていけない……絶対ムリ……",
+            "voice": "300210_adv_003_002_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 227,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<player>",
+            "character_text": "ベルゼブブ！　力をセーブしようと思わないでくれ！\n全力で俺たちに向かってくれば暴走までの時間も稼げる！",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 229,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 300210,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 230,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 300210,
+                "text_option": {
+                    "character_name": "ベルゼブブ",
+                    "character_text": "言われなくても、もうほんと色々ムリだから、\nいつもどおりやっちゃう……！",
+                    "voice": "300210_battle_000_attack3_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 234,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100108
+            },
+            {
+                "command_id": 235,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 237,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

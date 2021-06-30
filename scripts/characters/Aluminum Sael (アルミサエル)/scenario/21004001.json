@@ -1,0 +1,860 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "マスターのお世話、仕ります",
+            "sub_text": "アルミサエル"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 1.5,
+        "resorce_id": 100101
+    },
+    {
+        "command_id": 9,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 102071
+    },
+    {
+        "command_id": 10,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 2,
+        "resorce_id": null
+    },
+    {
+        "command_id": 11,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 101331
+    },
+    {
+        "command_id": 12,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 2,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 15,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 101314
+            },
+            {
+                "command_id": 16,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "こんにちは、マスター。失礼いたしますね",
+                    "voice": "100400_adv_004_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 18,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.3,
+        "resorce_id": 0
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 20,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 21,
+                "command": "Bg",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": 1
+            },
+            {
+                "command_id": 22,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100149
+            }
+        ]
+    },
+    {
+        "command_id": 24,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 25,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 0.3,
+        "resorce_id": 0
+    },
+    {
+        "command_id": 26,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.75,
+        "resorce_id": null
+    },
+    {
+        "command_id": 27,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 101331
+    },
+    {
+        "command_id": 28,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 30,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.6,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 740,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 31,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.6,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 33,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 34,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 100400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -5,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 35,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 36,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 38,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 39,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "お世話に参りました。どうぞよろしくお願いいたします",
+                    "voice": "100400_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 42,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 43,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "なぜ俺の世話をするのかと？　それはボケですか？　",
+                    "voice": "100400_adv_003_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 46,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 47,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "マスターは私の衣装を見て、何か思うところはございませんか？",
+                    "voice": "100400_adv_001_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 50,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 51,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 53,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 54,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 100400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 56,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 57,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "ええ、メイドでございます。",
+                    "voice": "100400_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 60,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 61,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "メイドはご主人様のお世話をするのが仕事です。\n存在意義であるといっても過言ではございません",
+                    "voice": "100400_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 64,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 65,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "ですので、マスターの元に参りました",
+                    "voice": "100400_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 67,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100400,
+        "text_option": {
+            "character_name": "アルミサエル",
+            "character_text": "掃除洗濯食事その他すべて諸々の事象を、朝から夜まで\n心を込めてお世話いたしますので、よろしくお願いいたします",
+            "voice": "100400_adv_003_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 69,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 70,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "夜の世話に反応されましたか？　それは実に健全なことです",
+                    "voice": "100400_adv_003_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 73,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 74,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "私に情けをくださるのでしたらどうぞご随意に。\n部屋の鍵はあけておきますので",
+                    "voice": "100400_adv_003_005_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 77,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 78,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "何にしても、まずは食事にいたしましょうか。\n腹が減っては戦ができぬと申しますし",
+                    "voice": "100400_adv_003_009_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 81,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 82,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "マスターのお好きなものをお作りしましょう",
+                    "voice": "100400_adv_002_002_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 85,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 86,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "おや、洗濯物がこんなに。それでは、洗濯から……",
+                    "voice": "100400_adv_003_006_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 89,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100861
+            },
+            {
+                "command_id": 90,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 91,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "おや、これは……もしや……くんくん",
+                    "voice": "100400_adv_003_010_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 94,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 95,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "これは失礼しました。ですが私は、子宮天使アルミサエル",
+                    "voice": "100400_adv_004_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 97,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100400,
+        "text_option": {
+            "character_name": "アルミサエル",
+            "character_text": "マスターの健全な精の営みについて、朝から晩まで\nお世話するのが私のつとめですので",
+            "voice": "100400_adv_002_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 99,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 100,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "そうですね……もし、このようなことが多いのでしたら、\n増強のためにすこしニンニクを多めにいたしましょうね",
+                    "voice": "100400_adv_003_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 102,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 100400,
+        "text_option": {
+            "character_name": "アルミサエル",
+            "character_text": "それから貞操帯も準備せねばなりませんね",
+            "voice": "100400_adv_002_002_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 104,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 100400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 105,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 100400,
+                "text_option": {
+                    "character_name": "アルミサエル",
+                    "character_text": "マスターの大切な子宝の素は、\n必ず実を結ぶ場所に届かせねばなりませんから",
+                    "voice": "100400_adv_004_003_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 108,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 109,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 111,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

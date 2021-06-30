@@ -1,0 +1,163 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100150
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "ご挨拶",
+            "sub_text": "アナフィエル"
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Character",
+        "command_option": "On",
+        "command_time": 0.5,
+        "resorce_id": 101400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 8,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.1,
+        "resorce_id": null
+    },
+    {
+        "command_id": 9,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 100101
+    },
+    {
+        "command_id": 10,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 101400,
+        "text_option": {
+            "character_name": "アナフィエル",
+            "character_text": "はじめまして、アナフィエルと申します。\nお会いできてうれしいですわ",
+            "voice": "101400_adv_003_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 12,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 101400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 13,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 101400,
+                "text_option": {
+                    "character_name": "アナフィエル",
+                    "character_text": "神に与えられた7つの力はこの7つの鍵にて封印しておりますが、\nそれでも十分にお力になれると思います",
+                    "voice": "101400_adv_002_001_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 16,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 101400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 10,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 17,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 101400,
+                "text_option": {
+                    "character_name": "アナフィエル",
+                    "character_text": "メタトロンは電脳天使化していますか？\nそうであれば、彼女ともどもよろしくおねがいいたしますわ",
+                    "voice": "101400_adv_003_004_001",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 20,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100101
+            },
+            {
+                "command_id": 21,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 23,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]

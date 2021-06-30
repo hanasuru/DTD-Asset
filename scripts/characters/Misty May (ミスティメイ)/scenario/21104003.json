@@ -1,0 +1,4361 @@
+[
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 2,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100148,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 3,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 2,
+                "resorce_id": 1
+            }
+        ]
+    },
+    {
+        "command_id": 5,
+        "command": "Title",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "title_option": {
+            "main_text": "エッチ・その１",
+            "sub_text": "ミスティメイ"
+        }
+    },
+    {
+        "command_id": 6,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": 0.75,
+        "resorce_id": 100160,
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 7,
+        "command": "Bgm",
+        "command_option": "On",
+        "command_time": 0.3,
+        "resorce_id": 100106
+    },
+    {
+        "command_id": 10,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "……なあ、マスター、ちょっといいかい？",
+            "voice": "110400_scenario_000_001_001",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 14,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 101332
+            },
+            {
+                "command_id": 15,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 0.5,
+                "resorce_id": null
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 18,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 100154,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 19,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 21,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 23,
+                "command": "Transition",
+                "command_option": "In",
+                "command_time": 0.25,
+                "resorce_id": null
+            },
+            {
+                "command_id": 24,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": 0.5,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 50,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 25,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.5,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 27,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.8,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 29,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 30,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "あたしは思うんだよ。悪魔を狩り尽くすために、\nあたしはもっともっと強くならなきゃいけないってね",
+                    "voice": "110400_scenario_000_001_002",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 33,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 34,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 36,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 37,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 39,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 40,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "だから、そのために……ジブリールの力の源である\nアモーレとやらを、いっぱい注いでもらう必要がある",
+                    "voice": "110400_scenario_000_001_003",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 43,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 44,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 46,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.3,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 3,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 48,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 3,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 49,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "……つまりは、お前と、\nエッチ……しなくちゃいけない、らしいね？",
+                    "voice": "110400_scenario_000_001_004",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 52,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 53,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 7,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 55,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": 10,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 56,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 58,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 59,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "勘違いするんじゃないよ！　悪魔を狩るために、仕方なくするんだ",
+                    "voice": "110400_scenario_000_001_005",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 62,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 63,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "あたしは他の天使たちみたいに、\nお前にぞっこんラブラブって性分じゃないからね",
+                    "voice": "110400_scenario_000_001_006",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 67,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 68,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 70,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 72,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 73,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "とはいえ、別にお前のことは嫌いじゃないし、お前となら、\nエッチぐらいしてやっても、まぁ、いいかなって、ね？",
+                    "voice": "110400_scenario_000_001_007",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 76,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 77,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 79,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 80,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 82,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 83,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "ただし、あたしは初めてで何にもわからないから、お前の好きに\nしていいよ。欲望のまま、あたしを激しく犯して辱めてくれていい",
+                    "voice": "110400_scenario_000_001_008",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 86,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 87,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "そうすれば、男ってやつは、思いっきり興奮して、\n濃いアモーレが出るんだろう？",
+                    "voice": "110400_scenario_000_001_009",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 90,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 91,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 93,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 95,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 96,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "支給されたスマホで、色々とエッチについても勉強したんだよ。\nあたしの言ってることに間違いはないだろ？",
+                    "voice": "110400_scenario_000_001_010",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 99,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 100,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 102,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 103,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 6,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 105,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 6,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 106,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "ん？　なんだい、その困り顔は？",
+                    "voice": "110400_scenario_000_001_011",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 109,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 110,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "そういうのに興奮するのは否定しないけど、ジブリールに酷いこと\nなんてできないって？　ラヴリエルの説明と話が違うね？",
+                    "voice": "110400_scenario_000_001_012",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 114,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 115,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 117,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 118,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 120,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 121,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "あいつは『お兄ちゃんは何でもアリＮＧなしのド変態ですの。\nエッチはお任せコースでオールＯＫですの♪』とか言ってたけどね",
+                    "voice": "110400_scenario_000_001_013",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 124,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 125,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "おや、怒ったのかい？\nえ？　あたしじゃなくラヴリエルのやつに対しての怒りだって？",
+                    "voice": "110400_scenario_000_001_014",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 128,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 129,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 131,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 132,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 134,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 135,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "まあ、とにかく、あたしはアモーレを補給したいだけなんだよ。\nとっとと始めようじゃないか",
+                    "voice": "110400_scenario_000_001_015",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 138,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 139,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 2,
+                    "position_y": 0,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 141,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 1,
+            "position_x": -2,
+            "position_y": 0,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 143,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 1,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 144,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "まだ悩んでるのかい？　それじゃあこうしよう。あたしに何かして\n欲しいこととかあったら、何でもしてやるよ。それならどうだい？",
+                    "voice": "110400_scenario_000_001_016",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 147,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 148,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": -5,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 150,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -7,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 151,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 11,
+            "position_x": 0,
+            "position_y": -3,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 153,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": 0,
+                    "position_y": 0,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 154,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "フフフ、その顔、何か思いついたようだね？　いいよ、言ってみな",
+                    "voice": "110400_scenario_000_001_017",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 157,
+                "command": "Character",
+                "command_option": "Zoom",
+                "command_time": 0.5,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.035
+                }
+            },
+            {
+                "command_id": 158,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.5,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 11,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 159,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.15,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 160,
+                "command": "Bg",
+                "command_option": "Zoom",
+                "command_time": 0.5,
+                "resorce_id": 100154,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1.15
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 162,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.85,
+        "resorce_id": null
+    },
+    {
+        "command_id": 163,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "怒られるのを覚悟の上で、して欲しいことを小声で囁いた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 166,
+                "command": "Shake",
+                "command_option": 0.2,
+                "command_time": 0.2,
+                "resorce_id": 110400
+            },
+            {
+                "command_id": 167,
+                "command": "Character",
+                "command_option": "On",
+                "command_time": null,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 9,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 168,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "えっ！？　オッ、オッ、オナニーしてるとこが見たいだと！？",
+                    "voice": "110400_scenario_000_001_018",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 171,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 172,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": -18,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 174,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.3,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -22,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 176,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.3,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 177,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "オナニーって、\n自分で……エッチなところ弄って気持ちよくなるあれ、だよな？",
+                    "voice": "110400_scenario_000_001_019",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 180,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.03,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 181,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.03,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -20,
+                    "position_y": -33,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 183,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -20,
+            "position_y": -30,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 184,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.02,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 186,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 187,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "いや！　ダメじゃない！\nこのあたしが、オナニーごときで怖気づくわけないだろ！",
+                    "voice": "110400_scenario_000_001_020",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 190,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 191,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -18,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 193,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -22,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 195,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.15,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 196,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "それに、何でもしてやるって言ったのはあたしの方だからね",
+                    "voice": "110400_scenario_000_001_021",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 199,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.02,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 200,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.02,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -20,
+                    "position_y": -33,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 202,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -20,
+            "position_y": -30,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 203,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.01,
+        "resorce_id": null
+    },
+    {
+        "command_id": 204,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -20,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 205,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.05,
+        "resorce_id": null
+    },
+    {
+        "command_id": 206,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.02,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -20,
+            "position_y": -33,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 207,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.01,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 2,
+            "position_x": -20,
+            "position_y": -30,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 208,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.01,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 210,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.01,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 2,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 211,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "やるからには、思いっきり本気のオナニー、みせてやるさ！\n中途半端なことは嫌いなんだよ！",
+                    "voice": "110400_scenario_000_001_022",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 215,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 216,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": -20,
+                    "position_y": -45,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 218,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -20,
+            "position_y": -47,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 219,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.15,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 4,
+            "position_x": -20,
+            "position_y": -43,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 221,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.05,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 4,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 222,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "……ああ、でも、一応言っておくが……過去の記憶がないから、\nこういうことするのは、実質、初めてなんだからな！",
+                    "voice": "110400_scenario_000_001_023",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 225,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 226,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": -18,
+                    "position_y": -40,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 228,
+        "command": "Character",
+        "command_option": "Move",
+        "command_time": 0.2,
+        "resorce_id": 110400,
+        "character_option": {
+            "body_variation": 1,
+            "face_variation": 8,
+            "position_x": -22,
+            "position_y": -40,
+            "scale": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 230,
+                "command": "Character",
+                "command_option": "Move",
+                "command_time": 0.2,
+                "resorce_id": 110400,
+                "character_option": {
+                    "body_variation": 1,
+                    "face_variation": 8,
+                    "position_x": -20,
+                    "position_y": -40,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 231,
+                "command": "Text",
+                "command_option": null,
+                "command_time": null,
+                "resorce_id": 110400,
+                "text_option": {
+                    "character_name": "ミスティメイ",
+                    "character_text": "多少、ぎこちなくなるのは大目に見てもらうよ！\n余計なことはいうんじゃない。いいね？",
+                    "voice": "110400_scenario_000_001_024",
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 236,
+        "command": "Transition",
+        "command_option": "Out",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 238,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": 1,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 239,
+                "command": "Bg",
+                "command_option": "Zoom",
+                "command_time": 0.1,
+                "resorce_id": 1,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": 1
+                }
+            },
+            {
+                "command_id": 240,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 241,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 243,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 244,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 245,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command_id": 246,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "フフ……特別大サービスで、おっぱいも見せてやるよ……。\nその方が興奮するだろ？",
+            "voice": "110400_scenario_000_001_025",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 249,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 100865
+            },
+            {
+                "command_id": 250,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 0.2,
+                "resorce_id": null
+            }
+        ]
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 253,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": 0.1,
+                "resorce_id": "1104000301",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 254,
+                "command": "Character",
+                "command_option": "OffAll",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "character_option": {
+                    "body_variation": null,
+                    "face_variation": null,
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 255,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": 0.1,
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 257,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 258,
+        "command": "Transition",
+        "command_option": "In",
+        "command_time": 0.5,
+        "resorce_id": null
+    },
+    {
+        "command_id": 259,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.6,
+        "resorce_id": null
+    },
+    {
+        "command_id": 260,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ミスティメイは、\nコスチュームをずらして豊かなバストを露出させる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 261,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "そのまま、挑発的な開脚ポーズで、下着に包まれた秘部を\n見せつけてきたが、どこか手際がぎこちない。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 262,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "……んんっ……チッ、あたしが、恥ずかしがっているわけないだろ",
+            "voice": "110400_scenario_000_001_026",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 263,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "よく見てな！　強くなるためなら、\nあたしはオナニーだって、なんだってやってやる！",
+            "voice": "110400_scenario_000_001_027",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 264,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んっ……んっ……んっ……あふ……く……う……あふぅっ！",
+            "voice": "110400_scenario_000_001_028",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 265,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "押し殺した鼻息を漏らしつつ、乳首を摘まんで転がし始めた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 266,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "下着越しに秘所を撫で始めた身体が、ビクッ、ビクッ、と跳ねて、\n敏感な反応を見せつけている。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 267,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ああ……お前の視線、凄く感じるよ。\nあたしのオナニーに……見入っているんだね？",
+            "voice": "110400_scenario_000_001_029",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 268,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "恥ずかし気に頬を染めながらも、勝気な表情で俺を睨む目には、\n凄みのある色気の炎が燃えているように感じられた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 269,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "いっ、いいさ、好きなだけ見なよ！\nただし、あたしにこんな恥ずかしいことまでさせてるんだからね",
+            "voice": "110400_scenario_000_001_030",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 270,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "そのぶん、とびっきりに濃いアモーレくれなきゃ承知しないよ……\nんっ……くふぅんんっ……",
+            "voice": "110400_scenario_000_001_031",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 271,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "乳首を弄り、下着越しに秘部を擦り上げている。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 272,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "悪魔殺しの悪魔のふだんとはまったく異なる艶姿を、\n俺は食い入るように見つめてしまう。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 273,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あふぅ……くうぅん……これ……想像してたよりも……効く",
+            "voice": "110400_scenario_000_001_032",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 274,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "胸とアソコ弄ってると、身体の奥の方から、熱いものがジワジワ\nって込み上げてくるよ！　……んっんっんっんっ……んはっ！",
+            "voice": "110400_scenario_000_001_033",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 275,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あぁ……乳首、凄く固くなって疼いてる。\nそれに……下の方はムズムズして、奥の方から熱くなってきてる",
+            "voice": "110400_scenario_000_001_034",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 276,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "卑猥な解説を交えつつ、ぎこちなかったオナニーの動きが、\n次第に激しさを増してゆく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 277,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んっ……あっあっあっあふうぅぅ……\n恥ずかしいのに……手が……止まらないよ！",
+            "voice": "110400_scenario_000_001_035",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 278,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "くうぅぅん……あっあっあっ……あたしの身体、こんなに敏感で、\nんっ、くふうぅぅんっ！　エッチ……だったんだな……",
+            "voice": "110400_scenario_000_001_036",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 279,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "乳首を転がす指の動きと、\n股間を弄る手の速度がさらにアップする。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 280,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "部屋の中に、女の子の甘酸っぱい発情臭がただよい始めた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 281,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "パ、パンツが濡れてきてるって？\nそっ、そうだ！　濡れてるんだよっ！",
+            "voice": "110400_scenario_000_001_037",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 282,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "チッ、本気でオナニーしてるんだから、当たり前じゃないか！？",
+            "voice": "110400_scenario_000_001_038",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 283,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "おっ……お前も、こういうのが見たかったんだろ？\nもっと……もっとあたしの本気のオナニー、見せてやる！",
+            "voice": "110400_scenario_000_001_039",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 284,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ほら、ここをずらして……直に触って見せてやるからね……！",
+            "voice": "110400_scenario_000_001_040",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 286,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1104000302",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 287,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "濡れ染みの出来た下着をずらすと、\n剥き出しになった秘所に、直に指を滑らせ始めた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 288,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ほっ、ほらぁ、誰にも見せたことのない、あたしのオマンコだ！",
+            "voice": "110400_scenario_000_001_041",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 289,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "え？　すごく奇麗だって！？\nそっ、そういう感想は求めてないよ！　んんっ",
+            "voice": "110400_scenario_000_001_042",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 290,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ツンツンした口調で文句を言いながらも、鮮やかなピンク色に\n濡れ光るワレメをこね回す様に、指を這わせるミスティメイ。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 291,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あふぅぅっ！　あたしのここ、こんなに熱くなって、\nすごく……濡れてる！？",
+            "voice": "110400_scenario_000_001_043",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 292,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "お、お前にも聞こえるだろ？\nこの……クチュクチュっていういやらしい音が！",
+            "voice": "110400_scenario_000_001_044",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 293,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あぁぁ……エッチな汁がどんどん溢れてきて、\n指がヌルヌルになってる……",
+            "voice": "110400_scenario_000_001_045",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 294,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "愛液が溢れすぎて、あたしの指も、アソコも、\n自分のモノじゃなくなっちゃったみたいに……あひんッ！？",
+            "voice": "110400_scenario_000_001_046",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 295,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "困惑と陶酔の入り混じった声で言いながら、\n秘所のスリットを濡れた指先で一気に撫で上げる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 296,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "びくんと、腰がひときわ大きく跳ねた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 297,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あっ……あぁぁ……ここ、感じすぎるのに……\n指が吸い寄せられてく……んふっんっんあっ",
+            "voice": "110400_scenario_000_001_047",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 298,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "頭の中、グチャグチャになって、指が勝手に動いちまう！\nひあ！　あっあっあっあぁぁぁうぅぅぅんんっ！",
+            "voice": "110400_scenario_000_001_048",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 299,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "スリットの頂点にあてがわれた指先が、\nクルクルと小さな円を描くように動いた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 300,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "それに連動して、開脚姿勢の身体が、\n電気ショックでも受けたかのように何度も跳ねあがる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 301,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "えっ？\nどこを触ってるか、何をしてるか……あくっ、説明しろって！？",
+            "voice": "110400_scenario_000_001_049",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 302,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "……くぅぅ……クッ、クリトリスだよ！\nクリトリス触って……ヒッ！",
+            "voice": "110400_scenario_000_001_050",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 303,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あんっ！　オナニー……してるんだよっ！\n……んくうぅぅぅんっ！",
+            "voice": "110400_scenario_000_001_051",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 304,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ここ……クリトリス触るとビリビリって感じて、\n身体の奥が甘く絞られてるみたいになって……",
+            "voice": "110400_scenario_000_001_052",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 305,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "はぁっ……エッチな汁が……愛液がどんどん溢れてくる……\nあっあっあっあっあんっ",
+            "voice": "110400_scenario_000_001_053",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 306,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "お前に……マスターに見られてるかと思うと、\nよけいに恥ずかしくって……",
+            "voice": "110400_scenario_000_001_054",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 307,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "悔しいのに昂って……\nあ、あたしの身体、変になっちゃいそうだよっ！",
+            "voice": "110400_scenario_000_001_055",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 308,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "このままじゃ、あたし……\nんっんっんっっひぁあっあっあっあんっ！",
+            "voice": "110400_scenario_000_001_056",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 309,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "甘い声を室内に響かせながら、白く細い指が、\n股間で小刻みに屈伸して勃起クリトリスを弾いている。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 310,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "しかし執拗なクリトリス弄りで感じすぎて苦しくなってきたのか、\n手つきが止まる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 311,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "くぅぅん……ちょ、ちょっと一休みさせてもらうよ……\nハァ、ハァハァ……",
+            "voice": "110400_scenario_000_001_057",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 312,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ハァ……感じ……弄りすぎて、ジンジン痺れてきたからね……。\n……あ！？",
+            "voice": "110400_scenario_000_001_058",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 313,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "呼吸を整えていたミスティメイの視線が、\n俺の股間の盛り上がりを捉えた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 314,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "フフフッ……お前の股間のそれ……おっきくなってるんだろ？\nあたしのオナニー見て、しっかり興奮しているじゃないか",
+            "voice": "110400_scenario_000_001_059",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 315,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ほうら、ガマンできなくなったんなら、襲ったっていいんだよ？",
+            "voice": "110400_scenario_000_001_060",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 316,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "え？　それは、さっきも言ったとおりＮＧだと？\n妙なところで強情だね、お前",
+            "voice": "110400_scenario_000_001_061",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 317,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "……仕方がないな、あたしだけ恥ずかしい思いして、\n気持ちよくなっちまってるのもしゃくだからね",
+            "voice": "110400_scenario_000_001_062",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 318,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "だから、お前のそれ、あたしが直接気持ちよくしてやるよ",
+            "voice": "110400_scenario_000_001_063",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 319,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あいにく手はふさがってるから……口で、いいか？\nやり方は、前もって調べてあるからさ",
+            "voice": "110400_scenario_000_001_064",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 320,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "……チッ！　嬉しそうな顔してカクカク頷くんじゃないよ！\nほら、さっさとモノ出して、もっと近くに来て……",
+            "voice": "110400_scenario_000_001_065",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 322,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "う……想像してたよりも、ずいぶんおっきいね……\nこれがお前の……マスターの……男のモノ……なのかい？",
+            "voice": "110400_scenario_000_001_066",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 323,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "興味津々といった様子で俺の勃起肉棒を観察するミスティメイ。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 324,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "その目は、欲情で熱く潤んでいて、\n荒い吐息が張り詰めた亀頭をくすぐってくる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 325,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ふうん……スマホで見るよりも、\n実物の方がずうっとエッチな形してるように見えるね……",
+            "voice": "110400_scenario_000_001_067",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 326,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "実物大だから、当然か？　ンフフフッ♪",
+            "voice": "110400_scenario_000_001_068",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 327,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "吐息の刺激を受けた肉棒が、奉仕を催促しているかのように、\nビクンッ！　ビクンッ！　と大きく幹をしゃくり上げた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 328,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "フフッ、マスターも、もう待ちきれないみたいだね、\nそれじゃぁ……はじめるよ！　んっ……あふっ、チュッ",
+            "voice": "110400_scenario_000_001_069",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 331,
+        "command": "Bg",
+        "command_option": "On",
+        "command_time": "0.5",
+        "resorce_id": "1104000303",
+        "bg_option": {
+            "position_x": null,
+            "position_y": null,
+            "scale": null
+        }
+    },
+    {
+        "command_id": 332,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": 0.15,
+        "resorce_id": null
+    },
+    {
+        "command_id": 333,
+        "command": "Se",
+        "command_option": "On",
+        "command_time": 0,
+        "resorce_id": 102782
+    },
+    {
+        "command_id": 334,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "熱く潤んだ柔らかなミスティメイの口に、\n肉棒の先端が呑み込まれる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 335,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "（熱くって、ドクドク脈打ってる！？\n　これが、男のモノの……マスターのモノの味と感触……）",
+            "voice": "110400_scenario_000_001_070",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 336,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "（決して美味しくないのに、凄く胸がドキドキして、\n　涎がいっぱい出てきちまう……）",
+            "voice": "110400_scenario_000_001_071",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 337,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "（アタシのオナニーを見たせいで、\n　こんなに硬く、おっきくなったのか……）",
+            "voice": "110400_scenario_000_001_072",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 338,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "（正直、恥ずかしいし……ちょっと悔しくもあるが……\n　でも……すごく、興奮する！）",
+            "voice": "110400_scenario_000_001_073",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 339,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んぐ……むふっ……ちゅぽっ！\nこんなに大きくそそり勃たせて……",
+            "voice": "110400_scenario_000_001_074",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 340,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "咥えづらいったらありゃしないよ！\nはぷ……んふっ……ちゅぱちゅぱっちゅぱ……",
+            "voice": "110400_scenario_000_001_075",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 341,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "文句を言いながらのフェラ奉仕に、\nぎこちないながらも熱を込めてゆく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 342,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "最初はギクシャクしていた舌づかいも、\nどんどん巧みになって、的確に感じるポイントを突いてくる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 343,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んふぅ……ちゅぽんっ！　はぁ、エッチしてる両方が\n気持ちよくなった方が、濃いアモーレが錬成できるんだろ？",
+            "voice": "110400_scenario_000_001_076",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 344,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "だったら、フフフ、思いっ切りお前のこれ……\n気持ちよくしてやるからね？",
+            "voice": "110400_scenario_000_001_077",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 345,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "はむんっ！\nんちゅっちゅ、ちゅるっ、ちゅぴっ、ちゅぱ……あはぁ……",
+            "voice": "110400_scenario_000_001_078",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 346,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "舐めるたびにビクビク反応してる。\n気持ちいいんだね？　フフフッ♪",
+            "voice": "110400_scenario_000_001_079",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 347,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あたしも気持ちよくなるから、一緒に濃いアモーレ練成しような？",
+            "voice": "110400_scenario_000_001_080",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 348,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ちゅるっちゅぱっちゅぱ、んちゅっ、はぁっ、\nちゅぴっ、ちゅるるるっ！",
+            "voice": "110400_scenario_000_001_081",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 349,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "メイのフェラ奉仕は、彼女らしい攻撃的なものだった。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 350,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あふ……ここ、感じるんだね？\nよし、だいたいわかってきた、本気で行くよ！　んふんっ",
+            "voice": "110400_scenario_000_001_082",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 351,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ふんふんふっ、ちゅっ、ちゅばっちゅばちゅばちゅばちゅばっ！",
+            "voice": "110400_scenario_000_001_083",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 352,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "きもひいいらろ？\n早くイッて、アモーレいっぱい出しちまいな……",
+            "voice": "110400_scenario_000_001_084",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 353,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ンッンッンッンッ……じゅぷっじゅぶぶゅっじゅるっ……\nぷはぁ～！　またおっきくなったね……はむんっ！",
+            "voice": "110400_scenario_000_001_085",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 354,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "アグレッシブなフェラ奉仕で、はしたない吸い音が立つ。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 355,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "肉棒を吸い上げ、亀頭に舌を絡ませながら、\nミスティメイはオナニーを再開した。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 356,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "（あたしのアソコ、さっきよりも熱くなって、凄く濡れてる……）",
+            "voice": "110400_scenario_000_001_086",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 357,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "（マスターのモノを、咥えてるから？　あぁ、トロトロのアソコが\n　指に吸い付いて……クリトリスもすっごく固くなってるよ！）",
+            "voice": "110400_scenario_000_001_087",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 358,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "くむうぅぅん……口でしながら……自分ですると、\nさっきよりも気持ちいいッ！",
+            "voice": "110400_scenario_000_001_088",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 359,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んむふうぅぅぅぅん！　ちゅばっんちゅっちゅっちゅぶ……んっ\nんっんっんっんっ……ずゅちゅるるっ！　あふうぅぅぅぅんっ！",
+            "voice": "110400_scenario_000_001_089",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 360,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ちゅぽっ！　んは、あはぁ……\nフフフ、もっと激しくするからね、覚悟しな！",
+            "voice": "110400_scenario_000_001_090",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 361,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あむんっ！　じゅるるるっ！　んふんっ、んちゅっ、\nじゅぱじゅぱっ、じゅぱちゅっ、ばっちゅばっちゅばっんちゅ",
+            "voice": "110400_scenario_000_001_091",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 362,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "ぐしょ濡れの股間を自分で弄りながら、\n肉棒を吸いしゃぶる動きもさらに強く、激しくなってゆく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 363,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あふぅ……口の中でビクビク震えて……\n熱くって……硬くって……はぁ……",
+            "voice": "110400_scenario_000_001_092",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 364,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "男の……マスターのチンポ……凄くエッチな味とにおいがするよ\n……ちゅぶっ、んっちゅ、ちゅぶっ、ちゅるっ……",
+            "voice": "110400_scenario_000_001_093",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 365,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "先っちょの割れ目から、\nエッチな味のお汁がどんどん出てくるね……",
+            "voice": "110400_scenario_000_001_094",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 366,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "これがガマン汁？　しょっぱくて、ヌルヌルなんだね？\nんちゅっちゅっ……",
+            "voice": "110400_scenario_000_001_095",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 367,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "初めて味わうらしい体液の味に、複雑な表情を浮かべながらも、\n相変わらずの舌づかいで亀頭を舐め回すミスティメイ。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 368,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ちゅるっ！　れろれろっ、じゅるっ、んはぁ……ガマン汁よりも、\nもっと濃いの、早く出せ！　ずっずぶぶっじゅるっずぶぶっ！！",
+            "voice": "110400_scenario_000_001_096",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 369,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あたしも、ああ、お汁……愛液、一杯出てる……\nあぁ、床まで垂れてるよ……んっんっんっんっんはぁぁん！",
+            "voice": "110400_scenario_000_001_097",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 370,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "はしたない吸い音を立ててフェラ奉仕しながら、\n膣内をかき回すアグレッシブな指使いが続く。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 371,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あふうぅぅん！　まら太くなった……\n口の中でビクビクして……もぉ、弾けそうか？",
+            "voice": "110400_scenario_000_001_098",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 372,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "肉棒を咥えたまま、上目遣いで確認してくるミスティメイに、\n強張った笑みを浮かべながら頷いて見せる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 373,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "弾けていいよ。思いっきり弾けて、濃いアモーレ、\nたっぷりあたしに飲ませて……ずっずぶぶっじゅるっ！",
+            "voice": "110400_scenario_000_001_099",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 374,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "攻撃的なフェラの快感が、\n肉棒の芯をビリビリと痺れさせながら駆け抜ける。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 375,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "そして、腰の奥から射精欲求が込み上げてきた。\nミスティメイの口の中で、肉棒がひときわ固く張り詰め、震える。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 376,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んちゅつ、出るのか？\nアモーレ……精液……いっ、いいよ、口に出せっ！",
+            "voice": "110400_scenario_000_001_100",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 377,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んふっ！\nあふっ……じゅぶぶっじゅろぼっぱずじゅるるるる～ッ！！",
+            "voice": "110400_scenario_000_001_101",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 381,
+                "command": "Flash",
+                "command_option": "1",
+                "command_time": "0.2",
+                "resorce_id": "1"
+            },
+            {
+                "command_id": 382,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": "0",
+                "resorce_id": "102722"
+            },
+            {
+                "command_id": 383,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.2",
+                "resorce_id": "1104000304",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 385,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.4",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 387,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 388,
+                "command": "Flash",
+                "command_option": "1",
+                "command_time": "0.35",
+                "resorce_id": "1"
+            }
+        ]
+    },
+    {
+        "command_id": 390,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.75",
+        "resorce_id": null
+    },
+    {
+        "command_id": 391,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "強く吸い上げてくるメイの口内に、思いっきり精液を解き放った。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 392,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んきゅふむうぅぅぅぅぅ～ンンンンっ！！！",
+            "voice": "110400_scenario_000_001_102",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 393,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "口内射精を受け止めながら、\nミスティメイも絶頂を迎えて身を震わせる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 394,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "（凄い勢いで出てる……マスターの精液……ドロドロで、\n　熱くって……んじゅるるっ！　量が多くて飲み切れない……）",
+            "voice": "110400_scenario_000_001_103",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 395,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んくっ……ごくっ、ごくんっ……じゅるっ……んふぅうぅ……",
+            "voice": "110400_scenario_000_001_104",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 396,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "まら……出てる……んふっ、\nちゅっちゅるっ、れろおっ……んッ、んんッ……",
+            "voice": "110400_scenario_000_001_105",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 397,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "自身もまた絶頂に震えながら、\nメイは射精中の肉棒をなおも激しく吸い上げる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 398,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "唇の端から白濁液を噴きこぼしつつ、\n俺が放った体液を喉を鳴らして飲み込んでゆく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 399,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んくっ……んくっ……んくっ……ごくんっ……はふ……じゅるるっ\n……ずちゅろろろろろっ……あふ……ちゅぱっ……ちゅぽんっ！",
+            "voice": "110400_scenario_000_001_106",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 400,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "脈動の終わった肉棒から、メイの口が離れた。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 402,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ハァッ……ハァ、ハァ……勢いよく出しすぎだよ！\nもうちょっと加減しながら出せなかったのかい？",
+            "voice": "110400_scenario_000_001_107",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 403,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "無理だって？　……男の身体の構造は、そういう風にできてない？\nそう……なのかい",
+            "voice": "110400_scenario_000_001_108",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 404,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "……あぁ、結構こぼしちゃったね。\nアモーレがもったいないから、全部吸わせてもらうよ",
+            "voice": "110400_scenario_000_001_109",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 407,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": 0,
+                "resorce_id": 102764
+            },
+            {
+                "command_id": 408,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.5",
+                "resorce_id": "1104000305",
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            }
+        ]
+    },
+    {
+        "command_id": 410,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "フフッ……凄くドロドロになってる。\n今奇麗にしてやるからね……んじゅるっ……ちゅるっ",
+            "voice": "110400_scenario_000_001_110",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 411,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ぴちゃっ、ちゅぴっ、んふっ……あふっ……精液って、\nこんなにも舌に粘りつくんだねえ",
+            "voice": "110400_scenario_000_001_111",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 412,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "射精直後で敏感になっている肉棒を舐め回されると、\n刺激が強すぎて、ついつい腰が引けてしまった。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 413,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "こら！　逃げるな！\nせっかく、あたしが奇麗にしてやるって言ってるんだから",
+            "voice": "110400_scenario_000_001_112",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 414,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "なに？　出した後は敏感になってる？　ダメ！　逃がさないよ",
+            "voice": "110400_scenario_000_001_113",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 415,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "この白いドロドロが、全部あたしの強さになるんだからな……\nちゅぱっ、んんっちゅっ",
+            "voice": "110400_scenario_000_001_114",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 416,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "白濁まみれになった俺の肉棒に顔を寄せると、\nミルクを舐める子猫のように舌を閃かせる。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 417,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "そのまま、付着した体液を残らず舐め取ってゆく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 418,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んはぁ……れるっ、ちゅるっ……ぴちゅっ……まだ残ってる……\nこんなにいっぱい出すなんて、さすがはマスター、だねえ？",
+            "voice": "110400_scenario_000_001_115",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 419,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "アハァ……舐めるたびにピクンピクン跳ねてるね。\nえ？　感じ過ぎて、ちょっと辛いだって？",
+            "voice": "110400_scenario_000_001_116",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 420,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "フフッ、そんなこと言っても容赦はしないよ！\nこら、逃げるなッ！　あむっ……じゅるっ、じゅるるるっ………",
+            "voice": "110400_scenario_000_001_117",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 421,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ずじゅっじゅるるっ……\nんちゅっ、ちゅるるっ、じゅぶぶゅじゅるぅっ！",
+            "voice": "110400_scenario_000_001_118",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 422,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "フフフッ……なんだか楽しくなってきたよ。\n練習もかねて、もうしばらく舐めさせてもらうからね？　んっ……",
+            "voice": "110400_scenario_000_001_119",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 423,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "敏感になっている肉棒の根元から先端まで、\n攻撃的な舌が這い回る。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 424,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "アハハッ、また硬く大きくなってビクビクしてきた……\nもう一回出すのかい？",
+            "voice": "110400_scenario_000_001_120",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 425,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "いいよ、出しても……あむんっ！　んっんっんっんっんっ………\nじゅるっじゅぶっ……じゅろおっちゅるるっ！",
+            "voice": "110400_scenario_000_001_121",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 426,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んちゅっ、はあ、出……るんだね？　じゅろおっちゅるるっ！！",
+            "voice": "110400_scenario_000_001_122",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 427,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "ほうら、出せ……じゅろおっ……じゅぶぶっ",
+            "voice": "110400_scenario_000_001_123",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 428,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んふっ、今度は、精液が出てるところ、あたしにしっかり見せな！\nじゅぶっぶゅじぞおおぉぉぉ！！",
+            "voice": "110400_scenario_000_001_124",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 431,
+                "command": "Flash",
+                "command_option": "1",
+                "command_time": "0.2",
+                "resorce_id": "1"
+            },
+            {
+                "command_id": 432,
+                "command": "Bg",
+                "command_option": "On",
+                "command_time": "0.2",
+                "resorce_id": 1104000306,
+                "bg_option": {
+                    "position_x": null,
+                    "position_y": null,
+                    "scale": null
+                }
+            },
+            {
+                "command_id": 433,
+                "command": "Se",
+                "command_option": "On",
+                "command_time": "0",
+                "resorce_id": 102721
+            }
+        ]
+    },
+    {
+        "command_id": 435,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.4",
+        "resorce_id": null
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 437,
+                "command": "Text",
+                "command_option": "Off",
+                "command_time": "0.1",
+                "resorce_id": null,
+                "text_option": {
+                    "character_name": null,
+                    "character_text": null,
+                    "voice": null,
+                    "voice_option": null
+                }
+            },
+            {
+                "command_id": 438,
+                "command": "Flash",
+                "command_option": "1",
+                "command_time": "0.35",
+                "resorce_id": "1"
+            }
+        ]
+    },
+    {
+        "command_id": 440,
+        "command": "Wait",
+        "command_option": null,
+        "command_time": "0.75",
+        "resorce_id": null
+    },
+    {
+        "command_id": 441,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "射精寸前の亀頭を吐き出しておねだりする\nミスティメイの目の前で、再び射精が始まった。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 442,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "うぁ！　んふぁ……熱いドロドロの精液……\n顔にいっぱい……あふ……熱い……",
+            "voice": "110400_scenario_000_001_125",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 443,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "二度目とは思えぬ大量の精液が、\nミスティメイの顔をドロドロに汚し抜いてゆく",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 444,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "あはぁぁ……マスターの精液のにおいで、頭がクラクラしそうだよ",
+            "voice": "110400_scenario_000_001_126",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 445,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "これもお掃除しなきゃね……。んふぅ……じゅるっ……\nじゅるるっ……はむ……んくんくんくっんく、ごくごくごくっ……",
+            "voice": "110400_scenario_000_001_127",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 446,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "恍惚の表情で顔面シャワーを受け止めたミスティメイは、\n口元に垂れてきた精液をすすり込む。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 447,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んちゅ……じゅるっ！　まだ出てる……全部吸ってやるからね！！",
+            "voice": "110400_scenario_000_001_128",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 448,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null,
+        "text_option": {
+            "character_name": "<off>",
+            "character_text": "そして、射精中の亀頭に唇を吸い付かせて吸い取ってゆく。",
+            "voice": null,
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 449,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んちゅるるっ……ちゅるるるるるうぅぅ～っ！\nちゅぽんっ！　くちゅ……んく……ごくんッ！",
+            "voice": "110400_scenario_000_001_129",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 450,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "んはぁぁぁ～、ごちそうさま。\nマスターの濃いアモーレ、たっぷり吸わせてもらったよ……",
+            "voice": "110400_scenario_000_001_130",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 451,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "フフフッ、お前の精液が……\nたしかにあたしの力になっていくのを、腹の奥で感じる……",
+            "voice": "110400_scenario_000_001_131",
+            "voice_option": null
+        }
+    },
+    {
+        "command_id": 452,
+        "command": "Text",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": 110400,
+        "text_option": {
+            "character_name": "ミスティメイ",
+            "character_text": "さあて、次の戦いが今から楽しみだね、マスター？",
+            "voice": "110400_scenario_000_001_132",
+            "voice_option": null
+        }
+    },
+    {
+        "command": "Block",
+        "list": [
+            {
+                "command_id": 454,
+                "command": "Bgm",
+                "command_option": "Off",
+                "command_time": 2,
+                "resorce_id": 100106
+            },
+            {
+                "command_id": 455,
+                "command": "Transition",
+                "command_option": "Out",
+                "command_time": 2,
+                "resorce_id": 0
+            }
+        ]
+    },
+    {
+        "command_id": 457,
+        "command": "End",
+        "command_option": null,
+        "command_time": null,
+        "resorce_id": null
+    }
+]
